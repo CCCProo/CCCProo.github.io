@@ -1,0 +1,206 @@
+.form{
+font-weight: bold;
+font-size: 16px;
+line-height: 20px;
+color: #000000;
+text-decoration: none;
+display: block;
+padding: 26px 20px 26px 20px;
+width: 96%;
+display: block;
+}
+.form2{
+	background: #FFFFFF;
+border: 1px solid rgba(147,147,147,0.4);
+border-radius: 6px;
+height: 24px;
+padding: 12px 14px 12px 14px;
+  padding-right: 14px;
+font-weight: 500;
+font-size: 16px;
+line-height: 150%;
+color: #18191B;
+width: 650px;
+display: block;
+}
+.ccccc{
+	position: absolute;
+
+margin-left: 636px;
+margin-top: -50px;
+width: 49px;
+height: 49px;
+cursor: pointer;
+border: 0;
+background: url(https://роблокс.рф/sites/all/themes/roblox_site/images/search.png) no-repeat scroll center center;
+text-indent: -9999px;
+}
+.botttttt{
+padding-bottom: 24px;
+border-bottom: 1px solid #E7E8E8;
+margin-bottom: 24px;
+width: 682px;
+}
+input::placeholder{
+  font-weight: 500;
+  font-size: 16px;
+  color: #939393;
+  opacity: 1;
+}
+
+.ppppd a{
+font-weight: 500;
+font-size: 11px;
+line-height: 13px;
+color: #939393;
+padding: 0;
+}
+.ppppd{
+	margin-left: 20px;
+}
+.opa2{
+	padding-top: 30px;
+}
+.inf{
+padding: 20px 32px 35px 32px;
+background: rgba(0,198,238,0.08);
+border-radius: 16px;
+margin-top: 1170px;
+position: absolute;
+width: 622px;
+}
+.pypyr{
+	font-weight: bold;
+font-size: 22px;
+line-height: 150%;
+color: #18191B;
+border-bottom: 1px solid #E7E8E8;
+padding: 0 0 14px 0;
+margin: 0 0 20px 0;
+}
+.in .i{
+	margin: 0 0 15px 0;
+}
+.o{
+	font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+color: #939393;
+margin-bottom: 8px;
+}
+.o2 a{
+	text-decoration: none;
+color: #18191B;
+transition: color ease-in-out 0.1s;
+}
+.o2{
+	font-weight: bold;
+font-size: 16px;
+line-height: 20px;
+}
+.inblock{
+	display: -webkit-flex;
+-webkit-flex-wrap: wrap;
+display: flex;
+flex-wrap: wrap;
+margin-top: 1670px;
+position: absolute;
+
+}
+.inblock a{
+	text-decoration: none;
+}
+.poyyyy{
+top: 0;
+left: 0;
+position: absolute;
+background: rgba(24,25,27,0.7);
+width: 315px;
+height: 315px;
+margin-top: -199px;
+border-radius: 16px;
+position: absolute;
+}.poyyyyy{
+top: 0;
+left: 0;
+position: absolute;
+background: rgba(24,25,27,0.7);
+width: 315px;
+height: 315px;
+margin-top: -199px;
+border-radius: 16px;
+position: absolute;
+margin-left: 355px;
+}
+.fonimg{
+width: 100%;
+height: 100%;
+border-radius: 16px;
+width: 315px;
+height: 315px;
+margin-top: -199px;
+background: url(https://роблокс.рф/sites/default/files/styles/600_600/public/guidebook/2307066a708859f0e384d75b986204d0.png);
+}
+.padding{
+	position: absolute;
+top: 0;
+left: 0;
+
+padding: 32px 28px 32px 32px;
+height: calc(100% - 64px);
+width: calc(100% - 60px);
+}
+.js{
+	  font-weight: bold;
+  font-size: 22px;
+  line-height: 150%;
+  color: #FFFFFF;
+  margin-bottom: 8px;
+}
+.h{
+	font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+color: #FFFFFF;
+}
+.h a{
+	text-decoration: none;
+color: #fff;
+display: inline-block;
+line-height: 17px;
+background: url(https://роблокс.рф/sites/all/themes/roblox_site/images/white-arrow.png) no-repeat scroll right 6px;
+padding: 0 13px 0 0;
+}
+.h a:hover{
+	text-decoration: underline;
+}
+.sho{
+	position: absolute;
+left: 32px;
+right: 28px;
+bottom: 32px;
+max-height: calc(100% - 73px);
+overflow-y: hidden;
+overflow-x: visible;
+word-wrap: break-word;
+}
+.datee{
+	font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+color: #FFFFFF;
+margin-bottom: 8px;
+}
+.aba{
+	font-weight: bold;
+font-size: 22px;
+line-height: 150%;
+}
+.aba a{
+	color: #fff;
+text-decoration: none;
+display: block;
+}
+.aba a:hover{
+	text-decoration: underline;
+}

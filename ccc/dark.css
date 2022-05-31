@@ -1,0 +1,138 @@
+body
+{
+    background: #111;
+
+}
+
+.igr,.topmes{
+	background: #1C1D22;
+}
+.block_title span a {
+ 
+  color: #FDFDFF;
+}
+.fiel_title a {
+  color: #DEE3EC;
+
+}
+
+.name a{
+color: #EFF3FB;
+	}
+.player .inner .four{
+	color:  #EFF3FB;
+
+}
+.player .inner {
+
+  border-top: 1px solid #111313;
+}
+.reit {
+  color: #18191B;
+ 
+  color: #F9FBFF;
+}
+
+.novost p{
+	color: white;
+}
+.naz a {
+  
+  color: #FEFEFF;
+}
+.opis {
+ 
+  color: #c4c4c4;
+}
+
+.opa{
+
+color: #fff;
+
+background: url(https://роблокс.рф/sites/all/themes/roblox_site/images/m-status.png) no-repeat scroll 24px 14px #14444d;
+}
+
+.zak{
+	background: linear-gradient(180deg,#2b2d2f 0%,rgba(255, 255, 255, 0) 100%);
+}
+.menu,.ul {
+  background: #1e1d1d;
+
+}li a {
+
+  color: #FFF;
+
+}.ull{
+
+background: #18191B;
+box-shadow: 0px 0px 6px rgba(24,25,27,0.3);
+
+
+z-index: 10;
+}
+
+.lii .aaaa:hover {
+	color: #18191B;
+	background : white;
+}
+.aaaa{
+
+color: white;
+
+background: #1e1d1d;
+
+}
+
+.stat{
+	background: black;
+}
+
+.kartink{
+border: 1px solid white;
+border-top: 1px solid white;
+position: relative;
+
+}
+.post{
+
+}
+.form  {
+
+  color: #fff;
+ 
+  border-bottom: 1px solid #313131;
+}.form a  {
+
+  color: #fff;
+ 
+
+}.fotr {
+
+  background: #111;
+ 
+}
+
+.name .ne{
+	color: #EFF3FB;
+}.amog {
+  background: #000;
+  height: 80px;
+  width: 1000px;
+  margin-left: -50px;
+  border-top: 1px solid #fff;
+}
+.form2{
+  background: #1C1C1C;
+}
+.botttttt{
+  border-bottom: 1px solid #484848;
+}
+.stc h1{
+  color: white;
+}
+.pypyr,.o2 a{
+  color: white;
+}
+.footer{
+  background: #000;
+}

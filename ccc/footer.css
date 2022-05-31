@@ -1,0 +1,96 @@
+.footer{
+background: #2C2D30;
+padding: 45px 0 45px 0;
+position: static;
+bottom: 0;
+height: 163px;
+}
+
+.block{
+	float: left;
+width: 165px;	
+margin-left: 20px;
+}
+
+.fote{
+	margin: 0 0 30px 0;
+
+}
+
+.img{
+	vertical-align: middle;
+text-indent: -9999px;
+display: inline-block;
+}
+
+.soz{
+	margin: 0 0 27px 0;
+}
+
+.nowww{
+display: inline-block;
+margin: 0 10px 0 0;
+width: 44px;
+height: 44px;
+line-height: 44px;
+vertical-align: top;background: url(https://роблокс.рф/sites/all/themes/roblox_site/images/vk.png) no-repeat scroll 0 0;
+transition: color ease-in-out 0.1s;
+
+}
+.nowww a{
+	background: url(https://роблокс.рф/sites/all/themes/roblox_site/images/vk.png) no-repeat scroll 0 0;
+}
+.nowww:hover{
+		background: url(https://роблокс.рф/sites/all/themes/roblox_site/images/vk-hover.png) no-repeat scroll 0 0;
+
+}
+
+.textv{
+	ont-weight: 500;
+font-size: 12px;
+line-height: 15px;
+color: #939393;
+}
+
+.block2{
+	margin-left: 45px;
+width: 182px;
+margin-right: 30px;
+position: relative;
+}
+
+.float{
+	float: left;
+	margin-top: -188px;
+	margin-left: 190px;
+}.float1{
+	float: left;
+	margin-top: -188px;
+	margin-left: 390px;
+}
+
+.float2{
+	float: left;
+	margin-top: -188px;
+	margin-left: 710px;
+}
+
+.menuuu{
+	border: none;
+list-style: none;
+text-align: left;
+}
+
+.lia{
+	list-style: none;
+line-height: 17px;
+font-weight: bold;
+font-size: 14px;
+padding: 0 0 12px 0;
+margin: 0;
+}
+
+.lia a{
+	text-decoration: none;
+color: #fff;
+}

@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Модальное окно с использованием jQuery</title>
+  <link rel="stylesheet" href="./css/style.css">
+</head>
+
+<body>
+  <header class="header">
+    <div class="header__inner">
+      <div class="header__logo">
+        <p>Smartlanding</p>
+      </div>
+      <div class="header__buttons">
+        <button id="callback-button" class="header__button">Обратный звонок</button>
+      </div>
+
+    </div>
+  </header>
+  <div class="content">
+    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Autem quod voluptas fuga quas incidunt tempora animi
+      suscipit, qui eaque deserunt cupiditate id! Magni illo dicta quaerat aut ea, vitae vero ducimus, consequatur iure
+      quasi odio. Doloribus rem quia voluptatum quisquam. Ullam commodi fuga est, itaque eligendi odio ipsam modi veniam
+      vitae. Debitis qui similique alias laboriosam dicta deleniti sequi libero minima magni voluptatibus voluptate rem
+      ut
+      dolorum, inventore quam hic beatae maxime dignissimos laborum consequuntur dolorem eligendi, incidunt iusto.
+      Architecto laborum praesentium nisi impedit, commodi rem numquam nobis quibusdam recusandae aliquid pariatur cum
+      atque in ex eos voluptatibus, nemo reprehenderit, unde eaque sequi culpa itaque et dolor dicta. Ut quia impedit
+      aut
+      cupiditate, debitis omnis quaerat similique amet, autem inventore repellat commodi accusantium nisi sit deserunt
+      voluptate dignissimos praesentium molestias fuga aspernatur. Fuga nobis repudiandae iste blanditiis sapiente fugit
+      non tenetur asperiores earum officiis. Voluptatem eaque incidunt vero neque commodi?</p>
+    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Autem quod voluptas fuga quas incidunt tempora animi
+      suscipit, qui eaque deserunt cupiditate id! Magni illo dicta quaerat aut ea, vitae vero ducimus, consequatur iure
+      quasi odio. Doloribus rem quia voluptatum quisquam. Ullam commodi fuga est, itaque eligendi odio ipsam modi veniam
+      vitae. Debitis qui similique alias laboriosam dicta deleniti sequi libero minima magni voluptatibus voluptate rem
+      ut
+      dolorum, inventore quam hic beatae maxime dignissimos laborum consequuntur dolorem eligendi, incidunt iusto.
+      Architecto laborum praesentium nisi impedit, commodi rem numquam nobis quibusdam recusandae aliquid pariatur cum
+      atque in ex eos voluptatibus, nemo reprehenderit, unde eaque sequi culpa itaque et dolor dicta. Ut quia impedit
+      aut
+      cupiditate, debitis omnis quaerat similique amet, autem inventore repellat commodi accusantium nisi sit deserunt
+      voluptate dignissimos praesentium molestias fuga aspernatur. Fuga nobis repudiandae iste blanditiis sapiente fugit
+      non tenetur asperiores earum officiis. Voluptatem eaque incidunt vero neque commodi?</p>
+    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Autem quod voluptas fuga quas incidunt tempora animi
+      suscipit, qui eaque deserunt cupiditate id! Magni illo dicta quaerat aut ea, vitae vero ducimus, consequatur iure
+      quasi odio. Doloribus rem quia voluptatum quisquam. Ullam commodi fuga est, itaque eligendi odio ipsam modi veniam
+      vitae. Debitis qui similique alias laboriosam dicta deleniti sequi libero minima magni voluptatibus voluptate rem
+      ut dolorum, inventore quam hic beatae maxime dignissimos laborum consequuntur dolorem eligendi, incidunt iusto.
+      Architecto laborum praesentium nisi impedit, commodi rem numquam nobis quibusdam recusandae aliquid pariatur cum
+      atque in ex eos voluptatibus, nemo reprehenderit, unde eaque sequi culpa itaque et dolor dicta. Ut quia impedit
+      aut cupiditate, debitis omnis quaerat similique amet, autem inventore repellat commodi accusantium nisi sit
+      deserunt voluptate dignissimos praesentium molestias fuga aspernatur. Fuga nobis repudiandae iste blanditiis
+      sapiente fugit non tenetur asperiores earum officiis. Voluptatem eaque incidunt vero neque commodi?</p>
+    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Autem quod voluptas fuga quas incidunt tempora animi
+      suscipit, qui eaque deserunt cupiditate id! Magni illo dicta quaerat aut ea, vitae vero ducimus, consequatur
+      iure quasi odio. Doloribus rem quia voluptatum quisquam. Ullam commodi fuga est, itaque eligendi odio ipsam modi
+      veniam vitae. Debitis qui similique alias laboriosam dicta deleniti sequi libero minima magni voluptatibus
+      voluptate rem ut dolorum, inventore quam hic beatae maxime dignissimos laborum consequuntur dolorem eligendi,
+      incidunt iusto. Architecto laborum praesentium nisi impedit, commodi rem numquam nobis quibusdam recusandae
+      aliquid pariatur cum atque in ex eos voluptatibus, nemo reprehenderit, unde eaque sequi culpa itaque et dolor
+      dicta. Ut quia impedit aut cupiditate, debitis omnis quaerat similique amet, autem inventore repellat commodi
+      accusantium nisi sit deserunt voluptate dignissimos praesentium molestias fuga aspernatur. Fuga nobis
+      repudiandae iste blanditiis sapiente fugit non tenetur asperiores earum officiis. Voluptatem eaque incidunt vero
+      neque commodi?</p>
+    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Autem quod voluptas fuga quas incidunt tempora
+      animi suscipit, qui eaque deserunt cupiditate id! Magni illo dicta quaerat aut ea, vitae vero ducimus,
+      consequatur iure quasi odio. Doloribus rem quia voluptatum quisquam. Ullam commodi fuga est, itaque eligendi
+      odio ipsam modi veniam vitae. Debitis qui similique alias laboriosam dicta deleniti sequi libero minima magni
+      voluptatibus voluptate rem ut dolorum, inventore quam hic beatae maxime dignissimos laborum consequuntur
+      dolorem eligendi, incidunt iusto. Architecto laborum praesentium nisi impedit, commodi rem numquam nobis
+      quibusdam recusandae aliquid pariatur cum atque in ex eos voluptatibus, nemo reprehenderit, unde eaque sequi
+      culpa itaque et dolor dicta. Ut quia impedit aut cupiditate, debitis omnis quaerat similique amet, autem
+      inventore repellat commodi accusantium nisi sit deserunt voluptate dignissimos praesentium molestias fuga
+      aspernatur. Fuga nobis repudiandae iste blanditiis sapiente fugit non tenetur asperiores earum officiis.
+      Voluptatem eaque incidunt vero neque commodi?</p>
+  </div>
+
+  <!-- Модальное окно -->
+  <div class="modal" id="modal-1">
+    <div class="modal__content">
+      <button class="modal__close-button"><img src="./img/close.svg" width="12" alt=""></button>
+      <!-- Контент модального окна -->
+      <h1 class="modal__title">Контент для примера</h1>
+      <p class="modal__description">Статья с уроком - <a
+          href="https://smartlanding.biz/kak-sdelat-modalnoe-okno-na-sajte.html">тут</a>.</p>
+    </div>
+  </div>
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="./js/scripts.js"></script>
+
+</body>
+
+</html>
