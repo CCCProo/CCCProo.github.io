@@ -1,0 +1,60 @@
+.profile{
+	margin: 0 0 50px 0;
+}
+.avararsss{
+	float: left;
+width: 104px;
+height: 104px;
+margin-right: 24px;
+position: relative;
+}
+.avararsss img{
+	border-radius: 50%;
+	border: solid 5px green;
+}
+.infe{
+	float: left;
+
+}
+.infe h1{
+	float: left;
+margin: 0 16px 16px 0;
+font-size: 28px;
+line-height: 110%;
+}
+.topmoney{
+	line-height: 17px;
+}
+.kakers{
+	float: left;
+margin-right: 24px;
+display: flex;
+}
+.topmir{
+	font-weight: bold;
+font-size: 22px;
+line-height: 17px;
+color: #18191B;
+margin-bottom: 12px;
+}
+.righttt{
+	float: left;
+	margin-left: 30px;
+}
+.money{
+	background: url(https://роблокс.рф/sites/all/themes/roblox_site/images/P_small.png) no-repeat scroll 0 center;
+padding: 0 0 0 20px;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+color: #939393;
+margin-bottom: 8px;
+}.money2{
+	background: url(https://роблокс.рф/sites/all/themes/roblox_site/images/B_small.png) no-repeat scroll 0 center;
+padding: 0 0 0 20px;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+color: #939393;
+
+}

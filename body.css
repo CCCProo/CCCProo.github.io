@@ -1,0 +1,581 @@
+.body_html{
+	position: relative;
+	width: 100%;
+	margin-top: 150px;
+}
+
+.novost{
+	width: 178px;
+height: 155px;
+position: fixed;
+visibility: visible;
+margin-top: 0px;
+
+}
+.novost p{
+	font-weight: bold;
+font-size: 16px;
+line-height: 150%;
+}
+
+.stc{
+	margin-left: 214px;
+	position: relative;
+	margin-top: 10px;
+	
+}
+
+.opa{
+	margin: 0 0 24px 0;
+border: 0;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+color: #000000;
+width: 60%;
+
+padding: 1px 1px 1px 30px;
+border-radius: 6px;
+visibility: visible;
+background: #ebfbfe;
+background: url(https://роблокс.рф/sites/all/themes/roblox_site/images/m-status.png) no-repeat scroll 24px 14px #ebfbfe;
+}
+
+
+.opa p{
+	padding-left: 35px;
+}
+.opa a{
+	color: #00C6EE;
+}
+
+.pox{
+	position: absolute;
+	visibility: visible;
+	background: linear-gradient(94.98deg,rgba(24,25,27,0.2) 7.55%,rgba(44,45,48,0.2) 73.97%),#2C2D30;
+border-radius: 16px;
+width: 320px;
+height: 130px;
+margin-left: 920px;
+top: 1px;
+}
+
+
+.pox1{
+	position: absolute;
+	visibility: visible;
+	background: url(https://роблокс.рф/sites/all/themes/roblox_site/images/back.png) no-repeat scroll 0 bottom #2c2d30;
+border-radius: 16px;
+width: 320px;
+height: 439px;
+margin-left: 920px;
+top:170px;
+}
+.pox1 .imggg{
+	background: url(https://роблокс.рф/sites/all/themes/roblox_site/images/R38.png) no-repeat scroll 0 0;
+font-weight: bold;
+font-size: 26px;
+line-height: 38px;
+color: #FFFFFF;
+height: 40px;
+padding: 0 0 0 47px;
+margin-top: 60px;
+margin-left: 40px;
+}
+.pox1 .p{
+	  font-weight: bold;
+  font-size: 24px;
+  line-height: 29px;
+  color: #FFFFFF;
+  margin-left: 40px;
+}.pox1 .p1{
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+color: #939393;
+position: absolute;
+margin-top: 4px;
+margin-left: 40px;
+}
+.pox1 .time{
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+color: #939393;
+position: absolute;
+margin-top: -17px;
+margin-left: 40px;
+}
+
+.pox .vip{
+	font-weight: bold;
+font-size: 24px;
+line-height: 29px;
+color: #FFFFFF;
+margin-left: 40px;
+margin-top: 13px;
+}
+
+.pox .zar{
+	color: white;
+	margin-left: 40px;
+	margin-top: -15px;
+}
+
+.zar1{
+	background: url(https://роблокс.рф/sites/all/themes/roblox_site/images/B_small.png) no-repeat scroll 0 center;
+padding: 0 0 0 21px;
+font-weight: bold;
+font-size: 16px;
+line-height: 150%;
+color: #fff;
+
+}
+.ggg{
+	width: 123px;
+	height: 40px;
+	margin-top: -20px;
+	margin-left: 40px;
+}
+
+.pox .zar3{
+	color: white;
+	margin-left: 180px;
+	margin-top: -60px;
+}
+
+.zar4{
+	background: url(https://роблокс.рф/sites/all/themes/roblox_site/images/B_small.png) no-repeat scroll 0 center;
+padding: 0 0 0 21px;
+font-weight: bold;
+font-size: 16px;
+line-height: 150%;
+color: #fff;
+	margin-left: 180px;
+
+}
+.gggg{
+	margin-top: -20px;
+
+}
+.dat{
+	font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+color: #939393;
+margin-top: 40px;
+}
+
+.naz a{
+	font-weight: bold;
+font-size: 28px;
+line-height: 110%;
+color: #18191B;
+}
+
+.opis{
+	font-weight: 500;
+font-size: 16px;
+line-height: 150%;
+color: #000000;
+margin-bottom: 16px;
+}
+
+
+
+.hest a{
+	color: #939393;
+
+}
+.bottom-kak{
+	bo
+}
+.post{
+	border-bottom: 1px solid #E7E8E8;padding-bottom:18px;
+width: 682px;
+
+}
+
+.vmest{
+
+}
+
+.com{
+	background: url(/sites/all/themes/roblox_site/images/comm-hover.png) no-repeat scroll 0 0;
+content: "";
+}
+
+.xxxxx{
+	margin-top: -470px;
+	width: ;
+	background: url(/sites/all/themes/roblox_site/images/back.png) no-repeat scroll 0 bottom #2c2d30;
+}
+
+.zaq{
+	  padding: 0 0 0 19px;
+  margin: 0 0 13px 0;
+  list-style: none;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 20px;
+  color: #FFFFFF;
+  background: url(https://роблокс.рф/sites/all/themes/roblox_site/images/chek_done.png) no-repeat scroll 0 3px;
+}
+.zar{
+	margin-top: 20px;
+	margin-left: 40px;
+}
+
+.zapq{
+	width: 200px;
+}
+
+.pox1 a{
+	color: white;
+transition: color ease-in-out 0.1s;
+margin-left: 35px;
+margin-top: 20px;
+position: absolute;
+}
+
+.pox1 a:hover{
+	color: #939393;
+}
+.pox11{
+			visibility: hidden;
+			position: absolute;
+
+
+border-radius: 16px;
+width: 830px;
+height: 104px;
+margin-left: 0px;
+padding-left: 26px;
+top: 160px;
+
+  background: #2C2D30;
+
+}
+
+.pox11 .pp{
+	font-size: 28px;
+
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 29px;
+  color: #FFFFFF;
+}
+
+.pox11 .time{
+	font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+color: #939393;
+margin-top: -15px;
+}
+
+.pox11 .porr{
+	position: absolute;
+background: url() no-repeat scroll 0 0;
+width: 40px;
+height: 40px;
+cursor: pointer;
+transition: all 0.2s;
+border-radius: 50%;
+transform:;
+margin-left:85%;
+margin-top: -60px;
+border: none;
+}
+
+
+.icon.selected {
+    transform: rotate(180deg);
+}
+
+.kvest,
+.input[type="checkbox"] {
+  display: none;
+}
+
+.input[type="checkbox"]:checked ~ .kvest {
+  display: block;
+
+}
+
+
+
+
+/* Стилизация псевдокнопки */
+.btn {
+  display: inline-block;
+  margin-bottom: 4px;
+  padding: 4px 8px;
+  background-color: #ffffff;
+  border: 1px solid #eeeeee;
+  cursor: pointer;
+}
+
+.kvest{
+
+	height: 140px;
+	margin-left: -26px;
+	color: white;
+	background: #2C2D30;;
+
+	margin-top: 10px;
+	border-radius: 0 0 16px 16px;
+
+	padding-left: 26px;
+
+}
+
+.qqqq{
+	font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+color: #939393;
+margin-bottom: 16px;
+}
+
+.zif11 p{
+
+font-weight: bold;
+font-size: 26px;
+line-height: 38px;
+color: #FFFFFF;
+height: 40px;
+margin-left: 40px;
+}
+
+.zif11 img{
+	position: absolute;
+}
+
+.zif11{
+	margin-top: -14px;
+}
+
+.ulllll li{
+padding: 0 0 0 19px;
+margin: 0 0 13px 0;
+list-style: none;
+font-weight: bold;
+font-size: 16px;
+line-height: 20px;
+color: #FFFFFF;
+background: url(https://роблокс.рф/sites/all/themes/roblox_site/images/chek_done.png) no-repeat scroll 0 3px;
+}
+
+.ulllll{
+	margin-top: -100px;
+	margin-left: 38%;
+}
+
+.aaaaaa a{
+	color: #FFFFFF;
+text-decoration: none;transition: 0.2s ease-in-out;
+}
+
+.aaaaaa{
+	margin-top: -50px;
+	
+}
+
+.aaaaaa a:hover{
+	color: #939393;
+}
+.none8{
+	background: linear-gradient(180deg,#F6E05C 0%,#E9C026 100%);
+position: absolute;
+left: 3px;
+top: 3px;
+height: calc(100% - 6px);
+border-radius: 28px;
+min-width:98%;
+}
+.none8 p{
+	position: absolute;
+
+right: 8px;
+top: 0;
+font-weight: bold;
+font-size: 22px;
+line-height: 27px;
+text-align: right;
+color: #FFFFFF;
+margin-top: -2px;
+}
+
+.pyst{
+	height: 3400px;
+	position: relative;
+	bottom: 0;
+	display: none;
+	z-index: -1;
+}.pyyyst{
+margin-top: 590px;position: relative;
+bottom: 0;
+z-index: -1;
+top: 0;
+
+}
+.theme-button{
+}
+.form a{
+	color: black;
+}
+
+.amog{
+	background: #2C2D30;
+	height: 80px;
+	width: 1000px;
+	margin-left: -50px;
+	border-top: 1px solid black;
+
+
+}
+.imgggggg{
+	z-index: 1;
+	position: relative;
+	margin-left: 110px;
+	margin-top: 70px;
+}
+.pist{
+	font-size: 14px;
+color: #FFFFFF;
+margin-left: 90px;
+margin-top: -40px;
+position: absolute;
+
+
+}
+
+.toppppppp{
+
+}
+
+.toppppppp{
+
+font-size: 24px;
+line-height: 24px;
+font-weight: bold;
+color: #fff;
+margin-left: 700px;
+margin-top: -45px;
+}
+.rar{
+	font-weight: bold;
+font-size: 9px;
+line-height: 12px;
+color: #fff;
+margin-left: 715px;
+margin-top: -48px;
+position: absolute;
+}
+.rara{
+	font-weight: bold;
+font-size: 9px;
+line-height: 12px;color: #00C6EE;
+margin-left: 715px;
+margin-top: -38px;
+}
+.vipp{
+background: url(https://роблокс.рф/sites/all/themes/roblox_site/images/vip.png) no-repeat scroll 0 0;
+width: 33px;
+height: 10px;
+margin-top: 2px;
+margin-left: 697px;
+
+}
+.liiiiii{
+	padding-top: 30px;
+}
+.time p{
+	float: left;
+font-weight: 500;
+font-size: 13px;
+line-height: 11px;
+color: #fff;
+margin-top: -18px;
+margin-left: 30px;
+}
+.pppp{
+	color: #939393;
+	padding-left: 5px;
+}
+.imgggggggggggggggggggggggggggggggggggggggggggggggggggg{
+	background: url(https://роблокс.рф/sites/all/themes/roblox_site/images/gift_box.png) no-repeat scroll 0 0;
+width: 35px;
+height: 39px;
+position: absolute;
+margin-left: 700px;
+margin-top: -9px;
+z-index: 2;
+}
+.coin2{
+	background: url(https://роблокс.рф/sites/all/themes/roblox_site/images/R.png) no-repeat scroll 0 0;
+padding: 4px 0 0 41px;
+height: 30px;
+margin-top: 30px;
+margin-left: 30px;
+position: absolute;
+}
+.m2{
+	font-weight: 500;
+font-size: 9px;
+line-height: 110%;
+color: #fff;
+}
+.m3{
+	  position: relative;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 110%;
+  color: #fff;
+  padding: 3px 0 0 0;
+}
+.milt{
+position: absolute;
+top: 0;
+font-weight: 500;
+font-size: 9px;
+color: #939393;
+margin-left: 90px;
+margin-top: -8px
+}
+.coin3{
+	background: url(https://роблокс.рф/sites/all/themes/roblox_site/images/B.png) no-repeat scroll 0 0;
+padding: 5px 0 0 39px;
+height: 31px;
+position: absolute;
+
+margin-left: 580px;
+margin-top: 30px;
+}
+.m4{
+	font-weight: 500;
+font-size: 9px;
+line-height: 110%;
+color: #fff;
+}
+.m4 span{
+	color: #939393;
+}
+.m5{
+	font-weight: bold;
+font-size: 16px;
+line-height: 110%;
+color: #fff;
+padding: 3px 0 0 0;
+}
+@media screen and (max-width: 5300px){
+	.amooog{
+		display: none;
+	}
+}
+@media screen and (max-width: 750px){
+	.amooog{
+		display: block;
+	}
+}

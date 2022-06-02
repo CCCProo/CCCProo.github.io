@@ -1,0 +1,28 @@
+.bykve{
+
+border-bottom: 1px solid #E7E8E8;
+margin-top: 24px;
+width: 682px;
+}
+.en{
+	padding: 0;
+margin: 0 0 24px 0;
+}
+.en li{
+list-style: none;
+  list-style-position: outside;
+display: inline-block;
+padding: 0 10px 0 0;
+font-weight: bold;
+font-size: 16px;
+line-height: 150%;
+}
+.en li a:hover{
+	color: #939393;
+transition: color ease-in-out 0.1s;
+}
+@media screen and (max-height: 860px){
+	.bykve{
+		width: 
+	}
+}
