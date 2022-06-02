@@ -303,6 +303,7 @@ flex: 0 0 auto;
 font-size: 14px;
 line-height: 17px;
 color: #18191B;
+display: flex;
 margin: 0 0 16px 0;
 }
 .aoaoaoa{
@@ -397,4 +398,7 @@ color: #18191B;
 }
 .ava{
 
+}
+.aboba4{
+	margin-left: 40px;
 }

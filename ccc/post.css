@@ -1,0 +1,170 @@
+.avtorr{
+	margin-bottom: 10px;
+}
+.disper{
+	float: left;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+color: #939393;
+}
+.nickname a{
+	display: inline-block;
+
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+color: #939393;
+}
+.nickname{
+	background: url(https://роблокс.рф/sites/all/themes/roblox_site/images/author.png) no-repeat scroll 0 center;
+padding-left: 18px;
+margin-left: 16px;
+}
+.nickname a:hover{
+	color: black;
+}
+.node-rate{
+	display: flex;
+float: right;
+margin-right: 380px;
+}
+.vote-minus{display: inline-block;
+background: url(https://роблокс.рф/sites/all/themes/roblox_site/images/vote-minus.png) no-repeat scroll 0 center;
+width: 16px;
+height: 20px;
+line-height: 20px;
+margin: 0 10px 0 0;
+float: left;
+cursor: pointer;}
+.vote-plus{float: left;
+background: url(https://роблокс.рф/sites/all/themes/roblox_site/images/vote-plus.png) no-repeat scroll 0 center;
+width: 16px;
+height: 20px;
+line-height: 20px;
+margin: 0 0 0 10px;
+cursor: pointer;}
+.rate-value{
+	font-weight: bold;
+font-size: 16px;
+line-height: 20px;
+color: #00C6EE;
+float: left;
+text-align: center;
+min-width: 30px;
+}
+h1{
+	font-weight: bold;
+font-size: 34px;
+line-height: 110%;
+margin: 0 0 24px 0;
+}
+.opapa{
+	width: 663px;
+}
+.kesh{
+ 
+ 
+}
+.kesh a{
+ font-weight: 500;
+  font-size: 14px;
+  line-height: 17px;
+  color: #939393; margin-right: 16px;
+  float: left;
+}
+.kesh a:hover{
+	color: black;
+}
+.comentss{
+text-decoration: none;
+background: url(https://роблокс.рф/sites/all/themes/roblox_site/images/comm.png) no-repeat scroll 0 0;
+padding: 0 0 0 30px;
+font-weight: bold;
+font-size: 16px;
+line-height: 22px;
+color: #939393;
+cursor: pointer;
+margin-right: 16px;
+float: left;
+}
+.comentss:hover{
+	background: url(https://роблокс.рф/sites/all/themes/roblox_site/images/comm-hover.png) no-repeat scroll 0 0;
+	color: #40d6f4;
+}
+.opisan{
+	margin: 0 0 23px 0;
+font-weight: 500;
+font-size: 16px;
+line-height: 150%;
+color: #18191B;
+font-weight:bold;
+margin-top: 10px;
+}
+.imggggge{
+	margin: 0 0 24px 0;
+width: 100%;
+}
+.podelit{
+	background: url(https://роблокс.рф/sites/all/themes/roblox_site/images/open-share.png) no-repeat scroll 0 0 !important;
+cursor: pointer;
+width: 21px;
+height: 25px;
+padding: 0 !important;
+border-radius: 0 !important;
+opacity: 1 !important;
+float: left
+}.podelitsttio1,
+#pseudoBtn33[type="checkbox"] {
+  display: none;
+}
+
+#pseudoBtn33[type="checkbox"]:checked ~ .podelitsttio1 {
+  display: block;
+}
+.podelitsttio1{
+position: absolute;
+z-index: 50;
+background: #fff;
+padding: 10px;
+border-radius: 8px;
+box-shadow: 0px 8px 24px rgba(0,0,0,0.18),0px 0px 4px rgba(0,0,0,0.1);
+margin-top: 20px;
+
+display: none;
+-webkit-transition: opacity 0.2s;
+transition: opacity 0.2s;
+width: auto;
+white-space: nowrap;
+line-height: 24px;}
+.vk{
+	  background-image: url("https://e7.pngegg.com/pngimages/515/1/png-clipart-computer-icons-logo-twitter-icon-logo-computer-wallpaper.png");
+	  display: block;
+width: 100%;
+height: 100%;display: inline-block;
+width: 24px;
+height: 24px;
+border-radius: 24px;
+
+margin: 0 5px 0 0;
+background-position: center;
+background-repeat: no-repeat;
+vertical-align: middle;
+background-size: 20px 20px;
+cursor: pointer;
+text-indent: -9999px;
+}
+.twetter{
+	background-image:url("https://cdn.icon-icons.com/icons2/2428/PNG/512/vk_black_logo_icon_147058.png");
+display: inline-block;
+width: 24px;
+height: 24px;
+border-radius: 24px;
+
+margin: 0 5px 0 0;
+background-position: center;
+background-repeat: no-repeat;
+vertical-align: middle;
+background-size: 20px 20px;
+cursor: pointer;
+}

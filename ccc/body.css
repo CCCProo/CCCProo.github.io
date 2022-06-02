@@ -22,6 +22,7 @@ line-height: 150%;
 	margin-left: 214px;
 	position: relative;
 	margin-top: 10px;
+	
 }
 
 .opa{
@@ -180,21 +181,19 @@ color: #000000;
 margin-bottom: 16px;
 }
 
-.post{
-border-bottom: 1px solid #E7E8E8;
-padding-bottom:18px;
-text-decoration: none;
 
-position: absolute;
-}
 
 .hest a{
 	color: #939393;
 
 }
+.bottom-kak{
+	bo
+}
+.post{
+	border-bottom: 1px solid #E7E8E8;padding-bottom:18px;
+width: 682px;
 
-.hest{
-	padding-top: 10px;
 }
 
 .vmest{
