@@ -52,6 +52,34 @@ color: #00C6EE;
 float: left;
 text-align: center;
 min-width: 30px;
+}.node-rate2{
+	display: flex;
+float: right;
+margin-right: 380px;
+}
+.vote-minus2{display: inline-block;
+background: url(https://роблокс.рф/sites/all/themes/roblox_site/images/vote-minus.png) no-repeat scroll 0 center;
+width: 16px;
+height: 20px;
+line-height: 20px;
+margin: 0 10px 0 0;
+float: left;
+cursor: pointer;}
+.vote-plus2{float: left;
+background: url(https://роблокс.рф/sites/all/themes/roblox_site/images/vote-plus.png) no-repeat scroll 0 center;
+width: 16px;
+height: 20px;
+line-height: 20px;
+margin: 0 0 0 10px;
+cursor: pointer;}
+.rate-value2{
+	font-weight: bold;
+font-size: 16px;
+line-height: 20px;
+color: #00C6EE;
+float: left;
+text-align: center;
+min-width: 30px;
 }
 h1{
 	font-weight: bold;
@@ -124,7 +152,7 @@ float: left
 }
 .podelitsttio1{
 position: absolute;
-z-index: 50;
+
 background: #fff;
 padding: 10px;
 border-radius: 8px;
@@ -167,4 +195,32 @@ background-repeat: no-repeat;
 vertical-align: middle;
 background-size: 20px 20px;
 cursor: pointer;
+}
+.textpost{
+	width: 663px;
+	font-weight: 500;
+font-size: 16px;
+line-height: 150%;
+color: #18191B;
+margin: 0 0 24px 0;
+}
+.polyshi{
+	padding: 10px 18px;
+display: inline-block;
+text-decoration: none;
+background: linear-gradient(180deg,#8A67AC 0%,#7B58A4 100%);
+border-radius: 6px;
+font-weight: bold;
+font-size: 14px;
+line-height: 17px;
+color: #FFFFFF;
+margin-top: 20px;
+border-top:1px solid #E7E8E8;
+
+}
+.polosha{
+	width: 56%;
+	border-top:1px solid #E7E8E8;
+	margin-top: 20px;
+margin-left: 17.5%;
 }

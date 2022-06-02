@@ -1,6 +1,6 @@
 
 // Set the date we're counting down to
-var countDownDate = new Date("May 16, 2022 00:00:00").getTime();
+var countDownDate = new Date("June 6, 2022 00:00:00").getTime();
 
 // Update the count down every 1 second
 var countdownfunction = setInterval(function() {
@@ -29,7 +29,7 @@ var countdownfunction = setInterval(function() {
 }, 1000);
 
 // Set the date we're counting down to
-var countDownDate = new Date("May 16, 2022 00:00:00").getTime();
+var countDownDate = new Date("June 6, 2022 00:00:00").getTime();
 
 // Update the count down every 1 second
 var countdownfunction = setInterval(function() {
@@ -60,7 +60,7 @@ var countdownfunction = setInterval(function() {
 
 
 // Set the date we're counting down to
-var countDownDate = new Date("May 16, 2022 00:00:00").getTime();
+var countDownDate = new Date("June 6, 2022 00:00:00").getTime();
 
 // Update the count down every 1 second
 var countdownfunction = setInterval(function() {
@@ -89,7 +89,7 @@ var countdownfunction = setInterval(function() {
 }, 1000);
 
 // Set the date we're counting down to
-var countDownDate = new Date("May 16, 2022 00:00:00").getTime();
+var countDownDate = new Date("June 6, 2022 00:00:00").getTime();
 
 // Update the count down every 1 second
 var countdownfunction = setInterval(function() {
