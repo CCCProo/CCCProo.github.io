@@ -1,0 +1,58 @@
+li{
+	list-style: none;
+}
+.roblox{
+background: url(https://www.freelogovectors.net/wp-content/uploads/2021/12/robloxlogo-freelogovectors.net_.png) no-repeat scroll 0 0;
+widows: 40px;
+height: 40px;
+ border-bottom: 3px solid white;
+}
+.display{
+	display: flex;
+}
+.menu{
+	display: flex;
+	padding: 10px;
+	background: #0d0f2f;
+
+}
+.limenu{
+	padding: 0px 20px 0px 20px;
+	text-transform: uppercase;
+	background: url(menu.png);
+}
+a{
+text-decoration: none;
+color: #d0d0d0;
+}
+.limenu img{
+	padding-left: 3px;
+}
+.logorus img{
+ 	border-radius: 50%;
+	width: 200px;
+	height: 200px;
+
+}
+.logorus{
+	padding: 20px;
+}
+.roblox{
+
+	background: #090b28;
+	padding: 20px;
+	height: 100%;
+	margin-top: 30px;
+}
+.textrus{
+	color: white;
+	border: 5px solid white;
+	width: 100%;
+	font-size: 20px;
+	padding: 10px 20px 10px 20px;
+	background: #141522;
+
+}
+.textrus a{
+	display: flex;
+}
