@@ -19,7 +19,7 @@ height: 40px;
 .limenu{
 	padding: 0px 20px 0px 20px;
 	text-transform: uppercase;
-	background: url(menu.png);
+	background-image: url(CCCProo.github.io/Новая папка/menu.png);
 }
 a{
 text-decoration: none;
@@ -55,4 +55,9 @@ color: #d0d0d0;
 }
 .textrus a{
 	display: flex;
+}
+.limenu .display:before{
+	background-image: url(menu.png);
+position: absolute;
+content: '';
 }
