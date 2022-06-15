@@ -402,3 +402,145 @@ color: #18191B;
 .aboba4{
 	margin-left: 40px;
 }
+.pravills{
+	  position: absolute;
+  right: 36px;
+  bottom: 26px;
+  font-size: 14px;
+  line-height: 17px;
+}
+.pravila a{
+display: inline-block;
+text-decoration: none;
+color: #18191B;
+padding: 0 16px 0 0;
+background: url(https://роблокс.рф/sites/all/themes/roblox_site/images/arrow-right.png) no-repeat scroll right center;
+}
+.membersss{
+	position: absolute;
+
+bottom: 26px;
+font-size: 14px;
+line-height: 17px;
+}
+.MEMRUS a{
+
+display: inline-block;
+text-decoration: none;
+color: #18191B;
+padding: 0 16px 0 0;
+background: url(https://роблокс.рф/sites/all/themes/roblox_site/images/arrow-right.png) no-repeat scroll right center;
+}
+#lschatrf{
+padding: 26px 16px 26px 28px;
+width: calc(100% - 16px - 28px - 262px - 38px - 36px - 1px);
+-webkit-flex: 0 0 auto;
+flex: 0 0 auto;
+position: relative;
+display: -webkit-flex;
+-webkit-flex-wrap: wrap;
+display: flex;
+flex-wrap: wrap;
+
+}
+
+.lsmembers{
+
+max-height: 384px;
+margin-top: 30px;
+
+}
+.nadpis23{
+	font-weight: bold;
+font-size: 14px;
+line-height: 17px;
+color: #18191B;
+margin: 0 0 16px 0;
+}
+.message{
+
+color: black;
+background-color: white;
+
+float: right;
+margin-left: -80px;
+padding: 4px;
+  padding-right: 4px;
+  padding-left: 4px;
+padding-left: 20px;
+padding-right: 20px;
+text-align: center;
+border-radius: 10px;
+font-weight: bold;
+}
+.comentss1{
+	background: none;
+padding: 0 46px 0 0;
+margin: 0 0 20px 0;
+display: flex;
+position: relative;
+}
+.avatr img{
+	float: left;
+width: 40px;
+height: 40px;
+border-radius: 20px;
+background: #F4F5F8;
+
+position: relative;
+
+}
+.kekoi{
+	max-width: calc(100% - 40px - 8px - 15px - 16px);
+width: auto;
+background: #FFFFFF;
+border-radius: 8px;
+padding: 10px 15px 10px 16px;
+position: relative;
+margin-left: 8px;
+
+}
+.e-data{
+	position: relative;
+padding-right: 20px;
+}
+.e-nixk{
+	display: inline-block;
+vertical-align: middle;
+margin: 0 5px 5px 0;
+font-weight: bold;
+font-size: 14px;
+line-height: 150%;
+color: #18191B;
+}
+.e-kake{
+	display: inline-block;
+vertical-align: middle;
+font-weight: 500;
+font-size: 12px;
+line-height: 150%;
+color: #939393;
+margin: 0 0 5px 0;
+}
+.e-comet{
+	padding: 0 0 0 0;
+font-weight: 500;
+font-size: 14px;
+line-height: 150%;
+color: #18191B;
+-webkit-touch-callout: none;
+-webkit-user-select: none;
+-khtml-user-select: none;
+-moz-user-select: none;
+-ms-user-select: none;
+user-select: none;
+}
+.e-otvet{
+	position: absolute;
+top: 10px;
+right: 15px;
+cursor: pointer;
+background: url(https://роблокс.рф/sites/all/themes/roblox_site/images/message-answer.png) no-repeat scroll 0 center;
+width: 12px;
+height: 21px;
+}

@@ -788,8 +788,9 @@ input[type="checkbox2"]:checked ~ .no {
 /* Стилизация псевдокнопки */
 .btn2 {
 
-  cursor: pointer;
-}@media screen and (max-width: 726px){
+cursor: pointer;
+border: none;
+background: no-repeat;}@media screen and (max-width: 726px){
 	.opk2{
 		margin-left: -114px;
 	}
@@ -797,3 +798,38 @@ input[type="checkbox2"]:checked ~ .no {
 		margin-left: -70px;
 	}
 }
+.pypost{
+	height: 500px;
+}
+.cirlse4{
+position: relative;
+height: 48px;
+width: 48px;
+border: 3px solid red;
+border-radius: 50%;
+box-shadow: 0 0 50px red, 0 0 30px #ff00007a, 0 0 50px #ff00004f;
+left: -92px;
+top: -60px;
+	}.cirlse5{
+position: relative;
+height: 48px;
+width: 48px;
+border: 3px solid red;
+border-radius: 50%;
+box-shadow: 0 0 50px red, 0 0 30px #ff00007a, 0 0 50px #ff00004f;
+left: -92px;
+top: -60px;
+	}
+.gigame{
+position: relative;
+height: 48px;
+width: 48px;
+border: 3px solid #ffbf00;
+border-radius: 50%;
+box-shadow: 0 0 50px #fffb00, 0 0 30px #d3ff007a, 0 0 50px #ffcb0069;
+
+	}
+	.cirlse5 img{
+		margin-top: 92px;
+margin-left: 60px;
+	}

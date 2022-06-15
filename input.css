@@ -65,7 +65,7 @@ padding: 0;
 padding: 20px 32px 35px 32px;
 background: rgba(0,198,238,0.08);
 border-radius: 16px;
-margin-top: 1170px;
+margin-top: 30px;
 position: absolute;
 width: 622px;
 }
@@ -103,8 +103,8 @@ line-height: 20px;
 -webkit-flex-wrap: wrap;
 display: flex;
 flex-wrap: wrap;
-margin-top: 1670px;
 position: absolute;
+margin-top: 500px;
 
 }
 .inblock a{

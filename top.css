@@ -1,7 +1,7 @@
 .topmes{
 
-position: relative;
-top: 540px;
+position: absolute;
+top: 640px;
 margin-left: 920px;
 padding: 16px 28px 0 28px;
 background: #F4F5F8;

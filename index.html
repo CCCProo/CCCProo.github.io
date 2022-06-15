@@ -12,6 +12,7 @@
 	<link rel="stylesheet" type="text/css" href="footer.css">
 	<link rel="stylesheet" type="text/css" href="igra.css">
 	<link rel="stylesheet" type="text/css" href="media.css">
+	<link rel="stylesheet" type="text/css" href="loading.css">
 	<script src="time.js"></script>
 	   	 <link rel="stylesheet" type="text/css" href="styles/light.css" id="theme-link">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -21,6 +22,9 @@
 </head>
 <body>
 <style type="text/css">
+	.ig{
+		border-radius: 50%;
+	}
   @media screen and (max-width: 763px){
 .logo1 .ig {
   margin-left: -80px;
@@ -160,7 +164,86 @@
 	.logo1 .ig{
 		margin-left: -460px;
 	}
-}</style>
+}
+	 	@media screen and (max-width: 900px) {
+	.igr{
+		position: absolute;
+top: 3530px;
+	}	.topmes{
+		position: absolute;
+top: 2380px;
+	}
+	.pypost{
+		height: 1728px;
+	}	
+}
+@media screen and (max-width: 844px) {
+		.pypost{
+			height: 1px;
+		}
+		.pyst{
+			
+		}
+}
+	 	@media screen and (max-width: 824px) {
+	.igr{
+		position: absolute;
+top: 3442px;
+	}	.topmes{
+		position: absolute;
+top: 2293px;
+	}
+
+}	 	@media screen and (max-width: 768px) {
+	.igr{
+		position: absolute;
+top: 3340px;
+	}	.topmes{
+		position: absolute;
+top: 2194px;
+	}
+
+} 	@media screen and (max-width: 694px) {
+	.igr{
+		position: absolute;
+top: 3282px;
+	}	.topmes{
+		position: absolute;
+top: 2135px;
+	}
+
+}	@media screen and (max-width: 634px) {
+	.igr{
+		position: absolute;
+top: 3205px;
+	}	.topmes{
+		position: absolute;
+top: 2063px;
+	}
+
+}	@media screen and (max-width: 556px) {
+	.igr{
+		position: absolute;
+top: 3093px;
+	}	.topmes{
+		position: absolute;
+top: 1946px;
+	}
+
+}
+	@media screen and (max-width: 470px) {
+	.igr{
+		position: absolute;
+top: 2968px;
+	}	.topmes{
+		position: absolute;
+top: 1822px;
+	}
+
+}
+
+
+</style>
 <div class="sait">
 
 
@@ -177,6 +260,12 @@
 
 	</div></div>
 	
+  <div class="preloader">
+    <div class="preloader__row">
+      <div class="preloader__item"></div>
+      <div class="preloader__item"></div>
+    </div>
+  </div>
 
 <div class="wrapper2">
 	<div class="stc">
@@ -294,8 +383,8 @@ ball.style.left = 200;
 	<div class="player one">
 		<div class="inner">
 			<div class="one">1</div>
-			<div class="foto"><img src="https://xn--90asckcim.xn--p1ai/sites/default/files/styles/48_48/public/avatars/u236_3.jpg?itok=vFXo71Au"></div>
-			<div class="infa">
+			<div class="foto"><div class="gigame"><img src="https://xn--90asckcim.xn--p1ai/sites/default/files/styles/48_48/public/avatars/u236_3.jpg?itok=vFXo71Au"></div></div>
+			<div class="infa" style="margin-left: 105px;">
 				<div class="name"><a class="ne" href="/top1">Rusrobloxloxep..</a>
 					<div class="vipd"></div>
 					<div class="nexx">
@@ -826,7 +915,7 @@ Jefdoz
 					<p class="var1">ТОП-3</p>
 					<p class="var2">1 ₽ ↑</p>
 					<img class="ig " src="https://ekhadiindia.s3.ap-south-1.amazonaws.com/img/avatar-place.png" width="48px" height="48px">
-					<img class="img111" src="https://роблокс.рф/sites/all/themes/roblox_site/images/vip.png">
+					<img class="img111" src="https://роблокс.рф/sites/all/themes/roblox_site/images/vip.png"><div class="cirlse4"></div>
 					</label>
 					<input type="checkbox" class="inp" id="pseudoBtn2">
 						<div class="teeeext">
@@ -939,6 +1028,7 @@ Jefdoz
 
 
 </div>
+<div class="pypost"></div>
 <div class="pyst">
 
 </div>
@@ -1112,6 +1202,14 @@ $(document).ready(function() {
 
 });
 </script>
-
+  <script>
+    window.onload = function () {
+      document.body.classList.add('loaded_hiding');
+      window.setTimeout(function () {
+        document.body.classList.add('loaded');
+        document.body.classList.remove('loaded_hiding');
+      }, 500);
+    }
+  </script>
 </body>
 </html>
