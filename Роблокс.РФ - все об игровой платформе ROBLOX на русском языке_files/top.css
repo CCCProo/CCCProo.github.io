@@ -1,0 +1,184 @@
+.topmes{
+
+position: absolute;
+top: 640px;
+margin-left: 920px;
+padding: 16px 28px 0 28px;
+background: #F4F5F8;
+border-radius: 16px;
+}
+
+.reit{
+	text-decoration: none;
+display: block;
+padding: 0 16px 0 0;
+background: url(https://роблокс.рф/sites/all/themes/roblox_site/images/arrow-right.png) no-repeat scroll right center;
+color: #18191B;  font-weight: bold;
+  font-size: 16px;
+  line-height: 20px;
+  color: #18191B;
+}
+.player{
+
+}
+.player .inner{
+	padding: 10px 28px;
+width: 100%;
+margin-left: -28px;
+border-top: 1px solid #E7E8E8;
+}
+
+.player .inner .one{
+	background: url(https://роблокс.рф/sites/all/themes/roblox_site/images/1P.png) no-repeat scroll center 0;
+	float: left;
+width: 32px;
+height: 25px;
+font-weight: bold;
+font-size: 16px;
+line-height: 16px;
+text-align: center;
+color: #18191B;
+margin-right: 8px;
+padding: 13px 0 0 0;
+}
+.player .inner .two{
+	background: url(https://роблокс.рф/sites/all/themes/roblox_site/images/2P.png) no-repeat scroll center 0;
+	float: left;
+width: 32px;
+height: 25px;
+font-weight: bold;
+font-size: 16px;
+line-height: 16px;
+text-align: center;
+color: #18191B;
+margin-right: 8px;
+padding: 13px 0 0 0;
+}.player .inner .three{
+	background: url(https://роблокс.рф/sites/all/themes/roblox_site/images/3P.png) no-repeat scroll center 0;
+	float: left;
+width: 32px;
+height: 25px;
+font-weight: bold;
+font-size: 16px;
+line-height: 16px;
+text-align: center;
+color: #18191B;
+margin-right: 8px;
+padding: 13px 0 0 0;
+}.player .inner .four{
+	background: url(https://роблокс.рф/sites/all/themes/roblox_site/images/4P.png) no-repeat scroll center 0;
+	float: left;
+width: 32px;
+height: 25px;
+font-weight: bold;
+font-size: 16px;
+line-height: 16px;
+text-align: center;
+color: #18191B;
+margin-right: 8px;
+padding: 13px 0 0 0;
+}
+
+.foto{
+	width: 40px;
+height: 40px;
+border-radius: 100%;
+display: inline-block;
+}
+
+.player .inner .infa{
+	float: left;
+width: calc(100% - 20px - 40px - 32px);
+
+margin-left: 90px;
+margin-top: -47px;
+}
+
+.player .inner .infa.name{
+	font-weight: bold;
+font-size: 14px;
+line-height: 17px;
+color: #18191B;
+margin: 0 0 2px 0;
+}
+
+.name a{
+text-decoration: none;
+color: #18191B;
+display: inline-block;
+white-space: nowrap;
+text-overflow: ellipsis;
+overflow: hidden;
+font-weight: bold;
+font-size: 14px;
+line-height: 17px;
+color: #18191B;
+margin: 0 0 2px 0;
+max-width: 132px;
+}.name .ne{
+text-decoration: none;
+color: #18191B;
+display: inline-block;
+white-space: nowrap;
+text-overflow: ellipsis;
+overflow: hidden;
+font-weight: bold;
+font-size: 13px;
+line-height: 17px;
+color: #18191B;
+margin: 0 0 2px 0;
+max-width: 132px;
+}
+
+.name .vipd{
+	display: inline-block;
+background: url(https://роблокс.рф/sites/all/themes/roblox_site/images/vip.png) no-repeat scroll 0 0;
+width: 33px;
+height: 10px;
+margin: 0px 0 0 5px;
+position: relative;
+top: -4px;
+}
+
+.name .nexx{
+	font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+color: #939393;
+margin-top: -20px;
+}
+
+.name .nexx .money{
+
+}
+
+.name .nexx .money .r{
+		background: url(https://роблокс.рф/sites/all/themes/roblox_site/images/P_small.png) no-repeat scroll 0 0px;
+padding: 0 8px 0 20px;
+display: inline-block;
+}.name .nexx .money .b{
+		background: url(https://роблокс.рф/sites/all/themes/roblox_site/images/B_small.png) no-repeat scroll 0 0px;
+padding: 0 8px 0 20px;
+display: inline-block;
+}#back2Top {
+   
+    line-height: 40px;
+    overflow: hidden;
+    z-index: 999;
+    display: none;
+    cursor: pointer;
+    
+    position: fixed;
+    right: 10px;
+bottom: 193px;
+ 
+      text-decoration: none;
+background: url(https://роблокс.рф/sites/all/themes/roblox_site/images/go_top.png) no-repeat scroll 0 0;
+width: 49px;
+height: 49px;
+display: block;
+cursor: pointer;
+    position: fixed;
+
+    text-decoration: none;
+}

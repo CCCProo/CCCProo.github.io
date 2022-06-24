@@ -1,0 +1,2474 @@
+	.otk:hover .ponks{
+	opacity: 1;
+}
+	@media screen and (max-width: 950px) {
+		.white, #demo,.none,.none1{
+			visibility: hidden;
+		}
+		.net img{
+			margin-left: 170px;
+
+		}
+		.ope{
+			 margin-left: 206px;
+  margin-top: -14px;
+  font-size: 20px;
+		}
+	}
+	@media screen and (max-width: 763px) {
+		.mobul{
+			opacity: 1;
+		}	
+
+		.net, .menu, .zak, .logo2, .logo3, .var2, .img111{
+			display:none;
+		}	
+	}
+	@media screen and (max-width:1230px) {
+		.net{
+				margin-left: 440px;
+				margin-top: -39px;
+
+		}
+
+		.logo3{
+				margin-left: 701.3px;
+		}
+		.logo2{
+				margin-left: 863.3px;
+
+		}
+	
+		.aaaaa{
+			margin-left: -70px;
+		}
+		.li7{
+			margin-left:460px;
+		}
+	}
+	@media screen and (max-width: 1190px) {
+		.li7{
+			margin-left: 400px;
+		}
+		.net{
+				margin-left: 400px;
+				margin-top: -39px;
+
+		}
+
+		.logo3{
+				margin-left: 661.3px;
+		}
+		.logo2{
+				margin-left: 823.3px;
+
+		}
+	
+		.aaaaa{
+			margin-left: -110px;
+		}		
+	}	@media screen and (max-width: 1142px) {
+		.li7{
+			margin-left: 340px;
+		}
+		.net{
+				margin-left: 360px;
+				margin-top: -39px;
+
+		}
+
+		.logo3{
+				margin-left: 621.3px;
+		}
+		.logo2{
+				margin-left: 783.3px;
+
+		}
+	
+		.aaaaa{
+			margin-left: -150px;
+		}		
+	}
+
+@media screen and (max-width: 1095px) {
+		.li7{
+			margin-left: 300px;
+		}
+		.net{
+				margin-left: 320px;
+				margin-top: -39px;
+
+		}
+
+		.logo3{
+				margin-left: 581.3px;
+		}
+		.logo2{
+				margin-left: 743.3px;
+
+		}
+	
+		.aaaaa{
+			margin-left: -190px;
+		}		
+	}
+
+@media screen and (max-width: 1055px) {
+		.li7{
+			margin-left: 260px;
+		}
+		.net{
+				margin-left: 280px;
+				margin-top: -39px;
+
+		}
+
+		.logo3{
+				margin-left: 541.3px;
+		}
+		.logo2{
+				margin-left: 703.3px;
+
+		}
+	
+		.aaaaa{
+			margin-left: -230px;
+		}		
+	}
+
+	@media screen and (max-width: 1016px) {
+		.li7{
+			margin-left: 220px;
+		}
+		.net{
+				margin-left: 240px;
+				margin-top: -39px;
+
+		}
+
+		.logo3{
+				margin-left: 501.3px;
+		}
+		.logo2{
+				margin-left: 663.3px;
+
+		}
+	
+		.aaaaa{
+			margin-left: -260px;
+		}		
+	}
+
+		@media screen and (max-width: 984px) {
+		.li7{
+			margin-left: 180px;
+		}
+		.net{
+				margin-left: 200px;
+				margin-top: -39px;
+
+		}
+
+		.logo3{
+				margin-left: 461.3px;
+		}
+		.logo2{
+				margin-left: 623.3px;
+
+		}
+	
+		.aaaaa{
+			margin-left: -300px;
+		}		
+	}
+
+		@media screen and (max-width: 984px) {
+		.li7{
+			margin-left: 140px;
+		}
+		.net{
+				margin-left: 160px;
+				margin-top: -39px;
+
+		}
+
+		.logo3{
+				margin-left: 421.3px;
+		}
+		.logo2{
+				margin-left: 583.3px;
+
+		}
+	
+		.aaaaa{
+			margin-left: -340px;
+		}		
+	}
+		@media screen and (max-width: 906px) {
+		.li7{
+			margin-left: 250px;
+		}
+		.net{
+				margin-left: 120px;
+				margin-top: -39px;
+
+		}
+
+		.logo3{
+				margin-left: 381.3px;
+		}
+		.logo2{
+				margin-left: 543.3px;
+
+		}
+	
+		.aaaaa{
+			margin-left: -380px;
+		}
+		.li2{
+	margin-left: 35px;
+	list-style: none;
+transition: color ease-in-out 0.1s;
+
+}
+
+.li3{
+		margin-left: 40px;
+	list-style: none;
+	transition: color ease-in-out 0.1s;
+
+}
+.li4{
+		margin-left: 30px;
+	list-style: none;
+}
+.li5{
+	margin-left: 35px;
+}
+
+.li6{
+	margin-left: 40px;
+}	
+.li8{
+	margin-left: 20px;
+	font-size: 30px;
+}	
+	}
+		@media screen and (max-width: 862px) {
+		.li7{
+			margin-left: 210px;
+		}
+		.net{
+				margin-left: 80px;
+				margin-top: -39px;
+
+		}
+
+		.logo3{
+				margin-left: 341.3px;
+		}
+		.logo2{
+				margin-left: 503.3px;
+
+		}
+	
+		.aaaaa{
+			margin-left: -420px;
+		}
+		.li2{
+	margin-left: 35px;
+	list-style: none;
+transition: color ease-in-out 0.1s;
+
+}
+
+.li3{
+		margin-left: 40px;
+	list-style: none;
+	transition: color ease-in-out 0.1s;
+
+}
+.li4{
+		margin-left: 30px;
+	list-style: none;
+}
+.li5{
+	margin-left: 35px;
+}
+
+.li6{
+	margin-left: 40px;
+}	
+.li8{
+	margin-left: 20px;
+	font-size: 30px;
+}	
+	}
+
+		@media screen and (max-width: 826px) {
+		.li7{
+			margin-left: 170px;
+		}
+		.net{
+				margin-left: 40px;
+				margin-top: -39px;
+
+		}
+
+		.logo3{
+				margin-left: 301.3px;
+		}
+		.logo2{
+				margin-left: 463.3px;
+
+		}
+	
+		.aaaaa{
+			margin-left: -460px;
+		}
+		.li2{
+	margin-left: 35px;
+	list-style: none;
+transition: color ease-in-out 0.1s;
+
+}
+
+.li3{
+		margin-left: 40px;
+	list-style: none;
+	transition: color ease-in-out 0.1s;
+
+}
+.li4{
+		margin-left: 30px;
+	list-style: none;
+}
+.li5{
+	margin-left: 35px;
+}
+
+.li6{
+	margin-left: 40px;
+}	
+.li8{
+	margin-left: 20px;
+	font-size: 30px;
+}	
+	}
+	@media screen and (max-width: 763px) {
+		.var5, .var7, .var3, .logo2, .var1, .var2{
+			opacity: 0;
+
+		}
+		.var span{
+			opacity: 1;
+		}
+		.var{
+margin-left: -178px;
+font-weight: bold;
+font-size: 11px;
+line-height: 110%;
+color: #FFFFFF;
+margin-top: -60px;
+
+
+		}
+		.coin{
+			margin-left: 562px;
+			position: absolute;
+			opacity: 1;
+			z-index: 1;
+			margin-top: -40px;
+font-weight: 500;
+font-size: 10px;
+line-height: 12px;
+color: #939393;
+text-align: center;
+		}
+		.coin span{
+			margin-top: 5px;
+			margin-left: 5px;
+		}
+		.two{
+			margin-top: -24px;
+		}
+		.otk{
+			margin-left: -44px;
+			margin-top: -54px;
+
+		}
+
+		.logo111 img{
+			margin-left: 1170px;
+
+		}
+
+.no{
+	visibility: visible;
+	}
+}
+@media screen and (max-width: 1100px) {
+	.novost{
+		visibility: hidden;
+	}	
+}
+
+@media screen and (max-width: 9855px) {
+	.var{
+		margin-left: -120px;
+		margin-top: -55px;
+	}
+}
+@media screen and (max-width: 1268px) {
+		.stc{
+			margin-left: 204px;
+		}
+
+		.pox{
+			margin-left: 910px;
+		}.pox1{
+			margin-left: 910px;
+		}.topmes,.igr{
+			margin-left: 910px;
+		}
+}
+@media screen and (max-width: 1250px) {
+		.stc{
+			margin-left: 194px;
+		}
+
+		.pox{
+			margin-left: 900px;
+		}.pox1{
+			margin-left: 900px;
+		}.topmes,.igr{
+			margin-left: 900px;
+		}
+}
+@media screen and (max-width: 1240px) {
+		.stc{
+			margin-left: 184px;
+		}
+
+		.pox{
+			margin-left: 890px;
+		}.pox1{
+			margin-left: 890px;
+		}.topmes,.igr{
+			margin-left: 890px;
+		}
+}@media screen and (max-width: 1230px) {
+		.stc{
+			margin-left: 174px;
+		}
+
+		.pox{
+			margin-left: 880px;
+		}.pox1{
+			margin-left: 880px;
+		}.topmes,.igr{
+			margin-left: 880px;
+		}
+}@media screen and (max-width: 1220px) {
+		.stc{
+			margin-left: 164px;
+		}
+
+		.pox{
+			margin-left: 870px;
+		}.pox1{
+			margin-left: 870px;
+		}.topmes,.igr{
+			margin-left: 870px;
+		}
+}@media screen and (max-width: 1210px) {
+		.stc{
+			margin-left: 164px;
+		}
+
+		.pox{
+			margin-left: 860px;
+		}.pox1{
+			margin-left: 860px;
+		}.topmes,.igr{
+			margin-left: 860px;
+		}
+}@media screen and (max-width: 1200px) {
+		.stc{
+			margin-left: 164px;
+		}
+
+		.pox{
+			margin-left: 850px;
+		}.pox1{
+			margin-left: 850px;
+		}.topmes,.igr{
+			margin-left: 850px;
+		}
+}@media screen and (max-width: 1190px) {
+		.stc{
+			margin-left: 154px;
+		}
+
+		.pox{
+			margin-left: 840px;
+		}.pox1{
+			margin-left: 840px;
+		}.topmes,.igr{
+			margin-left: 840px;
+		}
+		.kartink img{
+			width: 650px;
+		}
+		.post{
+			width: 650px;
+		}
+}@media screen and (max-width: 1170px) {
+		.stc{
+			margin-left: 154px;
+		}
+
+		.pox{
+			margin-left: 820px;
+		}.pox1{
+			margin-left: 820px;
+		}.topmes,.igr{
+			margin-left: 820px;
+		}
+		.kartink img{
+			width: 650px;
+		}
+		.post{
+			width: 650px;
+		}
+}@media screen and (max-width: 1160px) {
+		.stc{
+			margin-left: 154px;
+		}
+
+		.pox{
+			margin-left: 810px;
+		}.pox1{
+			margin-left: 810px;
+		}.topmes,.igr{
+			margin-left: 810px;
+		}
+		.kartink img{
+			width: 620px;
+		}
+		.post{
+			width: 620px;
+		}
+}@media screen and (max-width: 1150px) {
+		.stc{
+			margin-left: 154px;
+		}
+
+		.pox{
+			margin-left: 800px;
+		}.pox1{
+			margin-left: 800px;
+		}.topmes,.igr{
+			margin-left: 800px;
+		}
+		.kartink img{
+			width: 620px;
+		}
+		.post{
+			width: 620px;
+		}
+}@media screen and (max-width: 1140px) {
+		.stc{
+			margin-left: 154px;
+		}
+
+		.pox{
+			margin-left: 790px;
+		}.pox1{
+			margin-left: 790px;
+		}.topmes,.igr{
+			margin-left: 790px;
+		}
+		.kartink img{
+			width: 620px;
+		}
+		.post{
+			width: 620px;
+		}
+}@media screen and (max-width: 1130px) {
+		.stc{
+			margin-left: 154px;
+		}
+
+		.pox{
+			margin-left: 775px;
+		}.pox1{
+			margin-left: 775px;
+		}.topmes,.igr{
+			margin-left: 775px;
+		}
+		.kartink img{
+			width: 600px;
+		}
+		.post{
+			width: 600px;
+		}
+}@media screen and (max-width: 1120px) {
+		.stc{
+			margin-left: 154px;
+		}
+
+		.pox{
+			margin-left: 765px;
+		}.pox1{
+			margin-left: 765px;
+		}.topmes,.igr{
+			margin-left: 765px;
+		}
+		.kartink img{
+			width: 600px;
+		}
+		.post{
+			width: 600px;
+		}
+}@media screen and (max-width: 1110px) {
+		.stc{
+			margin-left: 154px;
+		}
+
+		.pox{
+			margin-left: 755px;
+		}.pox1{
+			margin-left: 755px;
+		}.topmes,.igr{
+			margin-left: 755px;
+		}
+		.kartink img{
+			width: 580px;
+		}
+		.post{
+			width: 580px;
+		}
+}@media screen and (max-width: 1099px) {
+		.stc{
+			margin-left: 10px;
+		}
+
+		.pox{
+			margin-left: 725px;
+		}.pox1{
+			margin-left: 725px;
+		}.topmes,.igr{
+			margin-left: 725px;
+		}
+		.kartink img{
+			width: 700px;
+		}
+		.post{
+			width: 700px;
+		}
+}
+
+@media screen and (max-width: 1075px) {
+		.stc{
+			margin-left: 5px;
+		}
+
+		.pox{
+			margin-left: 695px;
+		}.pox1{
+			margin-left: 695px;
+		}.topmes,.igr{
+			margin-left: 725px;
+		}
+		.kartink img{
+			width: 670px;
+		}
+		.post{
+			width: 700px;
+		}
+}
+@media screen and (max-width: 1036px) {
+		.stc{
+			margin-left: 5px;
+		}
+
+		.pox{
+			margin-left: 675px;
+		}.pox1{
+			margin-left: 675px;
+		}.topmes,.igr{
+			margin-left: 675px;
+			margin-top: 60px;
+		}
+		.kartink img{
+			width: 610px;
+		}
+		.post{
+			width: 610px;
+		}.float2
+}@media screen and (max-width: 1015px) {
+		.stc{
+			margin-left: 5px;
+		}
+
+		.pox{
+			margin-left: 645px;
+		}.pox1{
+			margin-left: 645px;
+		}.topmes,.igr{
+			margin-left: 645px;
+			margin-top: 60px;
+		}
+		.kartink img{
+			width: 570px;
+		}
+		.post{
+			width: 570px;
+		}
+}@media screen and (max-width: 954px) {
+		.stc{
+			margin-left: 5px;
+		}
+
+		.pox{
+			margin-left: 565px;
+		}.pox1{
+			margin-left: 565px;
+		}.topmes,.igr{
+			margin-left: 565px;
+			margin-top: 60px;
+		}
+		.kartink img{
+			width: 530px;
+		}
+		.post{
+			width: 530px;
+		}
+}@media screen and (max-width: 902px) {
+		.stc{
+			margin-left: 5px;
+
+		}
+
+		.pox{
+			margin-left: 555px;
+		}.pox1{
+			margin-left: 555px;
+		}.topmes,.igr{
+			margin-left: 555px;
+			margin-top: 60px;
+		}
+		.kartink img{
+			width: 520px;
+		}
+		.post{
+			width: 520px;
+		}
+}@media screen and (max-width: 900px) {
+		.stc{
+			margin-left: 5px;
+			padding-top: 400px;
+
+		}
+		.pox11{
+			visibility: visible;
+		}
+		.pox{
+			position: absolute;
+visibility: visible;
+background: linear-gradient(94.98deg,rgba(24,25,27,0.2) 7.55%,rgba(44,45,48,0.2) 73.97%),#2C2D30;
+border-radius: 16px;
+width: 860px;
+height: 130px;
+margin-left: 0px;
+
+top: 1px;
+		}.pox1{
+			visibility: hidden;
+		}.topmes{
+			margin-left: 1px;
+			top: 1640px;
+			bottom: 0px;
+			position: absolute;
+			height: 1100px;
+			width: 260px;
+		}
+		.kartink img{
+			width: 100%;
+		}
+		.post{
+			width: 100%;
+		}
+		.igr{
+			
+			margin-left: 1px;
+			top:2780px;
+			bottom: 0px;
+			position: absolute;
+			height: 1000px;
+
+
+		}
+
+		.footer{
+			width: 100%;
+	
+		}
+
+		.float2{
+			margin-left: 650px;
+		}
+}
+
+@media screen and (max-width: 894px) {
+	.pox{
+		width: 850px;
+	}	
+	body{
+		overflow-x: hidden;
+	}
+
+	.pox1{
+		width: 1px;
+		margin-left: 1px;
+		height: 1px;
+		display: none;
+	}
+}@media screen and (max-width: 884px) {
+	.pox{
+		width: 840px;
+
+	}	
+	
+}
+@media screen and (max-width: 870px) {
+	.wrapper{
+		padding: 0 0px;
+	}	
+}
+@media screen and (max-width: 864px) {
+	.pox{
+		width: 830px;
+	}
+}
+
+@media screen and (max-width: 854px) {
+	.topmes{
+		margin-left: 1px;
+	}
+
+.pox{
+	width: 810px;
+}
+.float2{
+	margin-left: 630px;
+}
+}
+
+@media screen and (max-width: 844px) {
+	.topmes{
+		margin-left: 1px;
+	}
+
+.pox{
+	width: 790px;
+}
+.float2{
+	margin-left: 610px;
+}
+
+@media screen and (max-width: 808px) {
+	.topmes{
+		margin-left: 1px;
+	}
+
+.pox{
+	width: 770px;
+}
+.float2{
+	margin-left: 590px;
+}
+}
+
+@media screen and (max-width: 795px) {
+	.topmes{
+		margin-left: 1px;
+
+	}
+
+.pox{
+	width: 750px;
+}
+.float2{
+	margin-left: 570px;
+}
+}
+@media screen and (max-width: 775px) {
+	.topmes{
+		margin-left: 1px;
+	}
+
+.pox{
+	width: 96%;
+}
+.float2{
+	margin-left: 550px;
+}
+.float1{
+	margin-left: 370px;
+}
+}
+@media screen and (max-width: 690px) {
+	.none6{
+		margin-top: 3px;
+	}	
+}
+
+
+	@media screen and (max-width: 876px) {
+	.pox11{
+		width: 93%;
+	}	
+
+	
+}
+@media screen and (max-width: 900px) {
+	.none6{
+		width: 320px;
+height: 28px;
+margin-left: 42%;
+}	
+}
+
+@media screen and (max-width: 758px) {
+	.none6{
+		margin-left: 38%;
+	}	
+}@media screen and (max-width: 695px) {
+	.none6{
+		margin-left: 34%;
+	}	
+}
+@media screen and (max-width: 690px) {		
+	.input[type="checkbox"]:checked ~ .none6 {
+  	position: absolute;
+margin-left: -3px;
+width: 90%;
+top: 180px;
+}
+.none6{
+	margin-top: -4px;
+	margin-left: -1px;
+	width: 93%;
+}	
+
+}
+@media screen and (max-width: 690px) {
+	.ulllll{
+		margin-left: -41px;margin-top: 60px;
+	}	
+	.aaaaaa{
+		margin-top: 1px;
+	}
+	.kvest{
+		height: 310px;
+	}
+
+	.pox11{
+		height: 130px;
+	}
+}
+@media screen and (max-width: 900px) {
+	.pyst{
+		display: block;
+	}
+	
+}
+
+@media screen and (max-width: 726px){
+
+.otk{
+	margin-left: -64px;
+}
+
+.var{
+	margin-left: -160px;
+}
+
+.coin{
+	margin-left: 552px;
+}
+.float {
+  float: left;
+
+  margin-left: 10px;
+}
+.footer{
+	height: 354px;
+}
+
+.textv{
+	margin-top: 220px;
+	width: 261px;
+}
+.menuuu{
+	margin-top: -50px;
+}
+
+.float1{
+	margin-left: 170px;
+}.float2{
+	margin-left: 380px;
+}
+
+
+}@media screen and (max-width: 706px){
+	.logo1 .ig {
+  margin-left: -120px;
+}
+.otk{
+	margin-left: -84px;
+}
+
+.var{
+	margin-left: -180px;
+}
+
+.coin{
+	margin-left: 532px;
+}
+.float {
+  float: left;
+
+  margin-left: 10px;
+}
+.footer{
+	height: 354px;
+}
+
+.textv{
+	margin-top: 220px;
+	width: 261px;
+}
+.menuuu{
+	margin-top: -50px;
+}
+
+.float1{
+	margin-left: 170px;
+}.float2{
+	margin-left: 380px;
+}
+
+
+}@media screen and (max-width: 686px){
+	.logo1 .ig {
+  margin-left: -140px;
+}
+.otk{
+	margin-left: -104px;
+}
+
+.var{
+	margin-left: -200px;
+}
+
+.coin{
+	margin-left: 512px;
+}
+.float {
+  float: left;
+
+  margin-left: 10px;
+}
+.footer{
+	height: 354px;
+}
+
+.textv{
+	margin-top: 220px;
+	width: 261px;
+}
+.menuuu{
+	margin-top: -50px;
+}
+
+.float1{
+	margin-left: 170px;
+}.float2{
+	margin-left: 380px;
+}
+
+
+}@media screen and (max-width: 666px){
+	.logo1 .ig {
+  margin-left: -160px;
+}
+.otk{
+	margin-left: -124px;
+}
+
+.var{
+	margin-left: -220px;
+}
+
+.coin{
+	margin-left: 492px;
+}
+.float {
+  float: left;
+
+  margin-left: 10px;
+}
+.footer{
+	height: 354px;
+}
+
+.textv{
+	margin-top: 220px;
+	width: 261px;
+}
+.menuuu{
+	margin-top: -50px;
+}
+
+.float1{
+	margin-left: 170px;
+}.float2{
+	margin-left: 380px;
+}
+
+.pox11{
+	width: 91%;
+}
+}@media screen and (max-width: 646px){
+	.logo1 .ig {
+  margin-left: -180px;
+}
+.otk{
+	margin-left: -144px;
+}
+
+.var{
+	margin-left: -240px;
+}
+
+.coin{
+	margin-left: 472px;
+}
+.float {
+  float: left;
+
+  margin-left: 10px;
+}
+.footer{
+	height: 354px;
+}
+
+.textv{
+	margin-top: 220px;
+	width: 261px;
+}
+.menuuu{
+	margin-top: -50px;
+}
+
+.float1{
+	margin-left: 170px;
+}.float2{
+	margin-left: 380px;
+}
+
+.pox{
+	width: 94%;
+}
+}@media screen and (max-width: 626px){
+	.logo1 .ig {
+  margin-left: -200px;
+}
+.otk{
+	margin-left: -164px;
+}
+
+.var{
+	margin-left: -260px;
+}
+
+.coin{
+	margin-left: 452px;
+}
+.float {
+  float: left;
+
+  margin-left: 10px;
+}
+.footer{
+	height: 354px;
+}
+
+.textv{
+	margin-top: 220px;
+	width: 261px;
+}
+.menuuu{
+	margin-top: -50px;
+}
+
+.float1{
+	margin-left: 170px;
+}.float2{
+	margin-left: 380px;
+}
+
+.pox{
+	width: 94%;
+}
+}@media screen and (max-width: 606px){
+	.logo1 .ig {
+  margin-left: -220px;
+}
+.otk{
+	margin-left: -184px;
+}
+
+.var{
+	margin-left: -280px;
+}
+
+.coin{
+	margin-left: 432px;
+}
+.float {
+  float: left;
+
+  margin-left: 10px;
+}
+.footer{
+	height: 354px;
+}
+
+.textv{
+	margin-top: 220px;
+	width: 261px;
+}
+.menuuu{
+	margin-top: -50px;
+}
+
+.float1{
+	margin-left: 170px;
+}.float2{
+	margin-left: 380px;
+}
+
+.pox{
+	width: 94%;
+}
+}@media screen and (max-width: 586px){
+	.logo1 .ig {
+  margin-left: -240px;
+}
+.otk{
+	margin-left: -204px;
+}
+
+.var{
+	margin-left: -300px;
+}
+
+.coin{
+	margin-left: 412px;
+}
+.float {
+  float: left;
+
+  margin-left: 10px;
+}
+.footer{
+	height: 354px;
+}
+
+.textv{
+	margin-top: 220px;
+	width: 261px;
+}
+.menuuu{
+	margin-top: -50px;
+}
+
+.float1{
+	margin-left: 170px;
+}.float2{
+	margin-left: 380px;
+}
+
+.pox{
+	width: 94%;
+}
+}@media screen and (max-width: 566px){
+	.logo1 .ig {
+  margin-left: -260px;
+}
+.otk{
+	margin-left: -224px;
+}
+
+.var{
+	margin-left: -320px;
+}
+
+.coin{
+	margin-left: 392px;
+}
+.float {
+  float: left;
+
+  margin-left: 10px;
+}
+.footer{
+	height: 354px;
+}
+
+.textv{
+	margin-top: 220px;
+	width: 261px;
+}
+.menuuu{
+	margin-top: -50px;
+}
+
+.float1{
+	margin-left: 170px;
+}.float2{
+	margin-left: 380px;
+}
+
+.pox{
+	width: 94%;
+}
+}@media screen and (max-width: 546px){
+	.logo1 .ig {
+  margin-left: -280px;
+}
+.otk{
+	margin-left: -244px;
+}
+
+.var{
+	margin-left: -340px;
+}
+
+.coin{
+	margin-left: 372px;
+}
+.float {
+  float: left;
+
+  margin-left: 10px;
+}
+.footer{
+	height: 354px;
+}
+
+.textv{
+	margin-top: 220px;
+	width: 261px;
+}
+.menuuu{
+	margin-top: -50px;
+}
+
+.float1{
+	margin-left: 170px;
+}.float2{
+	margin-left: 380px;
+}
+
+.pox{
+	width: 94%;
+}
+}@media screen and (max-width: 526px){
+	.logo1 .ig {
+  margin-left: -300px;
+}
+.otk{
+	margin-left: -264px;
+}
+
+.var{
+	margin-left: -380px;
+}
+
+.coin{
+	margin-left: 352px;
+}
+.float {
+  float: left;
+
+  margin-left: 10px;
+}
+.footer{
+	height: 354px;
+}
+
+.textv{
+	margin-top: 220px;
+	width: 261px;
+}
+.menuuu{
+	margin-top: -50px;
+}
+
+.float1{
+	margin-left: 170px;
+}.float2{
+	margin-left: 380px;
+}
+
+.pox{
+	width: 94%;
+}
+}@media screen and (max-width: 506px){
+	.logo1 .ig {
+  margin-left: -320px;
+}
+.otk{
+	margin-left: -284px;
+}
+
+.var{
+	margin-left: -400px;
+}
+
+.coin{
+	margin-left: 332px;
+}
+.float {
+  float: left;
+
+  margin-left: 10px;
+}
+.footer{
+	height: 354px;
+}
+
+.textv{
+	margin-top: 220px;
+	width: 261px;
+}
+.menuuu{
+	margin-top: -50px;
+}
+
+.float1{
+	margin-left: 170px;
+}.float2{
+	margin-left: 380px;
+}
+
+.pox{
+	width: 94%;
+}
+}@media screen and (max-width: 486px){
+	.logo1 .ig {
+  margin-left: -340px;
+}
+.otk{
+	margin-left: -304px;
+}
+
+.var{
+	margin-left: -420px;
+}
+
+.coin{
+	margin-left: 312px;
+}
+.float {
+  float: left;
+
+  margin-left: 10px;
+}
+.footer{
+	height: 354px;
+}
+
+.textv{
+	margin-top: 220px;
+	width: 261px;
+}
+.menuuu{
+	margin-top: -50px;
+}
+
+.float1{
+	margin-left: 170px;
+}.float2{
+	margin-left: 380px;
+}
+
+.pox{
+	width: 94%;
+}
+
+}@media screen and (max-width: 466px){
+	.logo1 .ig{
+  margin-left: -360px;
+}
+.otk{
+	margin-left: -324px;
+}
+
+.var{
+	margin-left: -440px;
+}
+.pox11{
+	width: 89%;
+}
+
+.coin{
+	margin-left: 292px;
+}
+.float {
+  float: left;
+
+  margin-left: 10px;
+}
+.footer{
+	height: 354px;
+}
+
+.textv{
+	margin-top: 220px;
+	width: 261px;
+}
+.menuuu{
+	margin-top: -50px;
+}
+
+.float1{
+	margin-left: 170px;
+}.float2{
+	margin-left: 380px;
+}
+
+.pox{
+	width: 94%;
+}
+
+}@media screen and (max-width: 446px){
+	.logo1 .ig {
+  margin-left: -380px;
+}
+.otk{
+	margin-left: -344px;
+}
+
+.var{
+	margin-left: -460px;
+}
+
+
+.coin{
+	margin-left: 272px;
+}
+.float {
+  float: left;
+
+  margin-left: 10px;
+}
+.footer{
+	height: 354px;
+}
+
+.textv{
+	margin-top: 220px;
+	width: 261px;
+}
+.menuuu{
+	margin-top: -50px;
+}
+
+.float1{
+	margin-left: 170px;
+}.float2{
+	margin-left: 380px;
+}
+
+.pox{
+	width: 94%;
+}
+
+}@media screen and (max-width: 446px){
+	.logo1 .ig {
+  margin-left: -400px;
+}
+.otk{
+	margin-left: -364px;
+}
+
+.var{
+	margin-left: -480px;
+}
+
+
+.coin{
+	margin-left: 252px;
+}
+.float {
+  float: left;
+
+  margin-left: 10px;
+}
+.footer{
+	height: 354px;
+}
+
+.textv{
+	margin-top: 220px;
+	width: 261px;
+}
+.menuuu{
+	margin-top: -50px;
+}
+
+.float1{
+	margin-left: 170px;
+}.float2{
+	margin-left: 380px;
+}
+
+.pox{
+	width: 94%;
+}
+
+}@media screen and (max-width: 404px){
+	.logo1 .ig {
+  margin-left: -420px;
+}
+.otk{
+	margin-left: -384px;
+}
+
+.var{
+	margin-left: -500px;
+}
+
+
+.coin{
+	margin-left: 232px;
+}
+.float {
+  float: left;
+
+  margin-left: 10px;
+}
+.footer{
+	height: 354px;
+}
+
+.textv{
+	margin-top: 220px;
+	width: 261px;
+}
+.menuuu{
+	margin-top: -50px;
+}
+
+.float1{
+	margin-left: 170px;
+}.float2{
+	margin-left: 380px;
+}
+.logo111 .ig {
+  margin-left: 1170px;
+  width: 123px;
+}
+.pox{
+	width: 94%;
+}
+
+}@media screen and (max-width: 384px){
+	.logo1 .ig {
+  margin-left: -440px;
+}
+.otk{
+	margin-left: -404px;
+}
+
+.var{
+	margin-left: -520px;
+}
+
+
+.coin{
+	margin-left: 212px;
+}
+.float {
+  float: left;
+
+  margin-left: 10px;
+}
+.footer{
+	height: 354px;
+}
+
+.textv{
+	margin-top: 220px;
+	width: 261px;
+}
+.menuuu{
+	margin-top: -50px;
+}
+
+.float1{
+	margin-left: 170px;
+}.float2{
+	margin-left: 380px;
+}
+.logo111 img {
+  margin-left: 1170px;
+  width: 123px;
+}
+.pox{
+	width: 94%;
+}
+
+}@media screen and (max-width: 364px){
+	.logo1 .ig {
+  margin-left: -460px;
+}
+.otk{
+	margin-left: -424px;
+}
+
+.var{
+	margin-left: -540px;
+}
+
+
+.coin{
+	margin-left: 192px;
+}
+.float {
+  float: left;
+
+  margin-left: 10px;
+}
+.footer{
+	height: 354px;
+}
+
+.textv{
+	margin-top: 220px;
+	width: 261px;
+}
+.menuuu{
+	margin-top: -50px;
+}
+
+.float1{
+	margin-left: 170px;
+}.float2{
+	margin-left: 380px;
+}
+.logo111 img {
+  margin-left: 1170px;
+  width: 123px;
+}
+.pox{
+	width: 94%;
+}
+
+}
+@media screen and (max-width: 584px){
+	.float1 {
+  margin-left: 1px;
+  margin-top: -180px;
+}	.float {
+  margin-left: 1px;
+  margin-top: -380px;
+
+}.float2 {
+  margin-left: 282px;
+  margin-top: -380px;
+}
+
+.footer{
+	height: 534px;
+}
+
+.textv{
+	margin-top: 420px;
+}
+}
+
+@media screen and (max-width: 490px){
+	.pox11{
+		width: 89%;
+	}
+	.pox11 .porr {
+
+  margin-left: 81%;
+ 
+}
+}
+@media screen and (max-width: 486px){
+	.float2 {
+  margin-left: 202px;
+  margin-top: -380px;
+}
+li a{
+	font-size: 14px;
+}
+}
+@media screen and (max-width: 446px){
+	.pox11{
+	width: 87%;
+}
+}@media screen and (max-width: 364px){
+	.pox11{
+		width: 84%;
+	}.pox{
+		width: 91%;
+	}
+	.pox11 .porr {
+  margin-left: 75%;
+}
+}
+
+@media screen and (max-width: 900px){
+	.pyyyst {
+  height:10px;
+  
+}
+}
+@media screen and (max-width:405px ){
+	.float2{
+		margin-left: 192px;
+	}
+}@media screen and (max-width:394px ){
+	.float2{
+		margin-left: 162px;
+	}
+}
+
+@media screen and (max-width: 790px){
+	.ull{
+		margin-left: -190px;
+	}
+}@media screen and (max-width: 790px){
+	.ull{
+		margin-left: -190px;
+	}
+}
+
+
+.teeeeeeeeeeext{
+	display: block;
+}
+
+.ulll{
+	margin-left: -170px;
+}
+@media screen and (max-width: 750px){
+	.ull{
+		margin-left: -543px;
+		width:1000px;
+	}
+	.aaaa{
+		width: 700px;
+	}
+
+}
+
+@media screen and (max-width: 736px){
+	.toppppppp{
+		margin-left: 680px;
+	}
+	.rar{
+		margin-left: 695px;
+	}.rara{
+		margin-left: 695px;
+	}
+	.vipp{
+		margin-left: 677px;
+	}
+}@media screen and (max-width: 716px){
+	.toppppppp{
+		margin-left: 660px;
+	}
+	.rar{
+		margin-left: 675px;
+	}.rara{
+		margin-left: 675px;
+	}
+	.vipp{
+		margin-left: 657px;
+	}
+}@media screen and (max-width: 696px){
+	.toppppppp{
+		margin-left: 640px;
+	}
+	.rar{
+		margin-left: 655px;
+	}.rara{
+		margin-left: 655px;
+	}
+	.vipp{
+		margin-left: 637px;
+	}
+}@media screen and (max-width: 676px){
+	.toppppppp{
+		margin-left: 620px;
+	}
+	.rar{
+		margin-left: 635px;
+	}.rara{
+		margin-left: 635px;
+	}
+	.vipp{
+		margin-left: 617px;
+	}
+}@media screen and (max-width: 656px){
+	.toppppppp{
+		margin-left: 600px;
+	}
+	.rar{
+		margin-left: 615px;
+	}.rara{
+		margin-left: 615px;
+	}
+	.vipp{
+		margin-left: 597px;
+	}
+}@media screen and (max-width: 636px){
+	.toppppppp{
+		margin-left: 580px;
+	}
+	.rar{
+		margin-left: 595px;
+	}.rara{
+		margin-left: 595px;
+	}
+	.vipp{
+		margin-left: 577px;
+	}
+}@media screen and (max-width: 616px){
+	.toppppppp{
+		margin-left: 560px;
+	}
+	.rar{
+		margin-left: 575px;
+	}.rara{
+		margin-left: 575px;
+	}
+	.vipp{
+		margin-left: 557px;
+	}
+}@media screen and (max-width: 596px){
+	.toppppppp{
+		margin-left: 540px;
+	}
+	.rar{
+		margin-left: 555px;
+	}.rara{
+		margin-left: 555px;
+	}
+	.vipp{
+		margin-left: 537px;
+	}
+}@media screen and (max-width: 576px){
+	.toppppppp{
+		margin-left: 520px;
+	}
+	.rar{
+		margin-left: 535px;
+	}.rara{
+		margin-left: 535px;
+	}
+	.vipp{
+		margin-left: 517px;
+	}
+}@media screen and (max-width: 556px){
+	.toppppppp{
+		margin-left: 500px;
+	}
+	.rar{
+		margin-left: 515px;
+	}.rara{
+		margin-left: 515px;
+	}
+	.vipp{
+		margin-left: 497px;
+	}
+}@media screen and (max-width: 536px){
+	.toppppppp{
+		margin-left: 480px;
+	}
+	.rar{
+		margin-left: 495px;
+	}.rara{
+		margin-left: 495px;
+	}
+	.vipp{
+		margin-left: 477px;
+	}
+}@media screen and (max-width: 516px){
+	.toppppppp{
+		margin-left: 460px;
+	}
+	.rar{
+		margin-left: 475px;
+	}.rara{
+		margin-left: 475px;
+	}
+	.vipp{
+		margin-left: 457px;
+	}
+}@media screen and (max-width: 496px){
+	.toppppppp{
+		margin-left: 440px;
+	}
+	.rar{
+		margin-left: 455px;
+	}.rara{
+		margin-left: 455px;
+	}
+	.vipp{
+		margin-left: 437px;
+	}
+}@media screen and (max-width: 476px){
+	.toppppppp{
+		margin-left: 420px;
+	}
+	.rar{
+		margin-left: 435px;
+	}.rara{
+		margin-left: 435px;
+	}
+	.vipp{
+		margin-left: 417px;
+	}
+}@media screen and (max-width: 456px){
+	.toppppppp{
+		margin-left: 400px;
+	}
+	.rar{
+		margin-left: 415px;
+	}.rara{
+		margin-left: 415px;
+	}
+	.vipp{
+		margin-left: 397px;
+	}
+}@media screen and (max-width: 436px){
+	.toppppppp{
+		margin-left: 380px;
+	}
+	.rar{
+		margin-left: 395px;
+	}.rara{
+		margin-left: 395px;
+	}
+	.vipp{
+		margin-left: 377px;
+	}
+}@media screen and (max-width: 426px){
+	.toppppppp{
+		margin-left: 360px;
+	}
+	.rar{
+		margin-left: 375px;
+	}.rara{
+		margin-left: 375px;
+	}
+	.vipp{
+		margin-left: 357px;
+	}
+}@media screen and (max-width: 406px){
+	.toppppppp{
+		margin-left: 340px;
+	}
+	.rar{
+		margin-left: 355px;
+	}.rara{
+		margin-left: 355px;
+	}
+	.vipp{
+		margin-left: 337px;
+	}
+}@media screen and (max-width: 386px){
+	.toppppppp{
+		margin-left: 320px;
+	}
+	.rar{
+		margin-left: 335px;
+	}.rara{
+		margin-left: 335px;
+	}
+	.vipp{
+		margin-left: 317px;
+	}
+}@media screen and (max-width: 366px){
+	.toppppppp{
+		margin-left: 300px;
+	}
+	.rar{
+		margin-left: 315px;
+	}.rara{
+		margin-left: 315px;
+	}
+	.vipp{
+		margin-left: 297px;
+	}
+}@media screen and (max-width: 346px){
+	.toppppppp{
+		margin-left: 280px;
+	}
+	.rar{
+		margin-left: 295px;
+	}.rara{
+		margin-left: 295px;
+	}
+	.vipp{
+		margin-left: 277px;
+	}
+}
+@media screen and (max-width: 736px){
+	.coin3{
+		 margin-left: 560px;
+	}
+}@media screen and (max-width: 726px){
+	.coin3{
+		 margin-left: 540px;
+	}
+}@media screen and (max-width: 706px){
+	.coin3{
+		 margin-left: 540px;
+	}
+}@media screen and (max-width: 696px){
+	.coin3{
+		 margin-left: 520px;
+	}
+}@media screen and (max-width: 676px){
+	.coin3{
+		 margin-left: 500px;
+	}
+}@media screen and (max-width: 656px){
+	.coin3{
+		 margin-left: 480px;
+	}
+}@media screen and (max-width: 636px){
+	.coin3{
+		 margin-left: 460px;
+	}
+}@media screen and (max-width: 616px){
+	.coin3{
+		 margin-left: 440px;
+	}
+}@media screen and (max-width: 596px){
+	.coin3{
+		 margin-left: 420px;
+	}
+}@media screen and (max-width: 576px){
+	.coin3{
+		 margin-left: 400px;
+	}
+}@media screen and (max-width: 556px){
+	.coin3{
+		 margin-left: 380px;
+	}
+}@media screen and (max-width: 536px){
+	.coin3{
+		 margin-left: 360px;
+	}
+}@media screen and (max-width: 516px){
+	.coin3{
+		 margin-left: 340px;
+	}
+}@media screen and (max-width: 496px){
+	.coin3{
+		 margin-left: 320px;
+	}
+}@media screen and (max-width: 476px){
+	.coin3{
+		 margin-left: 300px;
+	}
+}@media screen and (max-width: 456px){
+	.coin3{
+		 margin-left: 280px;
+	}
+}@media screen and (max-width: 436px){
+	.coin3{
+		 margin-left: 260px;
+	}
+}@media screen and (max-width: 416px){
+	.coin3{
+		 margin-left: 240px;
+	}
+}@media screen and (max-width: 396px){
+	.coin3{
+		 margin-left: 220px;
+	}
+}@media screen and (max-width: 376px){
+	.coin3{
+		 margin-left: 220px;
+	}
+}@media screen and (max-width: 366px){
+	.coin3{
+		 margin-left: 200px;
+	}
+}@media screen and (max-width: 356px){
+	.coin3{
+		 margin-left: 180px;
+	}
+}
+@media screen and (max-width: 736px){
+	.none10{
+		width: 680px;
+	}
+	..imgggggggggggggggggggggggggggggggggggggggggggggggggggg{
+		margin-left: 680px;
+	}
+}@media screen and (max-width: 726px){
+	.none10{
+		width: 660px;
+	}
+	.imgggggggggggggggggggggggggggggggggggggggggggggggggggg {
+  background: url(https://роблокс.рф/sites/all/themes/roblox_site/images/gift_box.png) no-repeat scroll 0 0;
+  width: 35px;
+  height: 39px;
+  position: absolute;
+  margin-left: 680px;
+  margin-top: -9px;
+  z-index: 2;
+}
+}@media screen and (max-width: 706px){
+	.none10{
+		width: 640px;
+	}
+	.imgggggggggggggggggggggggggggggggggggggggggggggggggggg {
+  background: url(https://роблокс.рф/sites/all/themes/roblox_site/images/gift_box.png) no-repeat scroll 0 0;
+  width: 35px;
+  height: 39px;
+  position: absolute;
+  margin-left: 640px;
+  margin-top: -9px;
+  z-index: 2;
+}
+}@media screen and (max-width:666px){
+	.none10{
+		width: 620px;
+	}
+	.imgggggggggggggggggggggggggggggggggggggggggggggggggggg {
+  background: url(https://роблокс.рф/sites/all/themes/roblox_site/images/gift_box.png) no-repeat scroll 0 0;
+  width: 35px;
+  height: 39px;
+  position: absolute;
+  margin-left: 620px;
+  margin-top: -9px;
+  z-index: 2;
+}
+}@media screen and (max-width:646px){
+	.none10{
+		width: 580px;
+	}
+	.imgggggggggggggggggggggggggggggggggggggggggggggggggggg {
+  background: url(https://роблокс.рф/sites/all/themes/roblox_site/images/gift_box.png) no-repeat scroll 0 0;
+  width: 35px;
+  height: 39px;
+  position: absolute;
+  margin-left: 580px;
+  margin-top: -9px;
+  z-index: 2;
+}
+}@media screen and (max-width:626px){
+	.none10{
+		width: 560px;
+	}
+	.imgggggggggggggggggggggggggggggggggggggggggggggggggggg {
+  background: url(https://роблокс.рф/sites/all/themes/roblox_site/images/gift_box.png) no-repeat scroll 0 0;
+  width: 35px;
+  height: 39px;
+  position: absolute;
+  margin-left: 560px;
+  margin-top: -9px;
+  z-index: 2;
+}
+}@media screen and (max-width:586px){
+	.none10{
+		width: 500px;
+	}
+	.imgggggggggggggggggggggggggggggggggggggggggggggggggggg {
+  background: url(https://роблокс.рф/sites/all/themes/roblox_site/images/gift_box.png) no-repeat scroll 0 0;
+  width: 35px;
+  height: 39px;
+  position: absolute;
+  margin-left: 500px;
+  margin-top: -9px;
+  z-index: 2;
+}
+}@media screen and (max-width:536px){
+	.none10{
+		width: 480px;
+	}
+	.imgggggggggggggggggggggggggggggggggggggggggggggggggggg {
+  background: url(https://роблокс.рф/sites/all/themes/roblox_site/images/gift_box.png) no-repeat scroll 0 0;
+  width: 35px;
+  height: 39px;
+  position: absolute;
+  margin-left: 480px;
+  margin-top: -9px;
+  z-index: 2;
+}
+}@media screen and (max-width:516px){
+	.none10{
+		width: 460px;
+	}
+	.imgggggggggggggggggggggggggggggggggggggggggggggggggggg {
+  background: url(https://роблокс.рф/sites/all/themes/roblox_site/images/gift_box.png) no-repeat scroll 0 0;
+  width: 35px;
+  height: 39px;
+  position: absolute;
+  margin-left: 460px;
+  margin-top: -9px;
+  z-index: 2;
+}
+}@media screen and (max-width:496px){
+	.none10{
+		width: 440px;
+	}
+	.imgggggggggggggggggggggggggggggggggggggggggggggggggggg {
+  background: url(https://роблокс.рф/sites/all/themes/roblox_site/images/gift_box.png) no-repeat scroll 0 0;
+  width: 35px;
+  height: 39px;
+  position: absolute;
+  margin-left: 440px;
+  margin-top: -9px;
+  z-index: 2;
+}
+}@media screen and (max-width:476px){
+	.none10{
+		width: 420px;
+	}
+	.imgggggggggggggggggggggggggggggggggggggggggggggggggggg {
+  background: url(https://роблокс.рф/sites/all/themes/roblox_site/images/gift_box.png) no-repeat scroll 0 0;
+  width: 35px;
+  height: 39px;
+  position: absolute;
+  margin-left: 420px;
+  margin-top: -9px;
+  z-index: 2;
+}
+}@media screen and (max-width:446px){
+	.none10{
+		width: 400px;
+	}
+	.imgggggggggggggggggggggggggggggggggggggggggggggggggggg {
+  background: url(https://роблокс.рф/sites/all/themes/roblox_site/images/gift_box.png) no-repeat scroll 0 0;
+  width: 35px;
+  height: 39px;
+  position: absolute;
+  margin-left: 400px;
+  margin-top: -9px;
+  z-index: 2;
+}
+}@media screen and (max-width:426px){
+	.none10{
+		width: 380px;
+	}
+	.imgggggggggggggggggggggggggggggggggggggggggggggggggggg {
+  background: url(https://роблокс.рф/sites/all/themes/roblox_site/images/gift_box.png) no-repeat scroll 0 0;
+  width: 35px;
+  height: 39px;
+  position: absolute;
+  margin-left: 380px;
+  margin-top: -9px;
+  z-index: 2;
+}
+}@media screen and (max-width:406px){
+	.none10{
+		width: 360px;
+	}
+	.imgggggggggggggggggggggggggggggggggggggggggggggggggggg {
+  background: url(https://роблокс.рф/sites/all/themes/roblox_site/images/gift_box.png) no-repeat scroll 0 0;
+  width: 35px;
+  height: 39px;
+  position: absolute;
+  margin-left: 360px;
+  margin-top: -9px;
+  z-index: 2;
+}
+}@media screen and (max-width:386px){
+	.none10{
+		width: 340px;
+	}
+	.imgggggggggggggggggggggggggggggggggggggggggggggggggggg {
+  background: url(https://роблокс.рф/sites/all/themes/roblox_site/images/gift_box.png) no-repeat scroll 0 0;
+  width: 35px;
+  height: 39px;
+
+  position: absolute;
+  margin-left: 340px;
+  margin-top: -9px;
+  z-index: 2;
+}
+}@media screen and (max-width:366px){
+	.none10{
+		width: 320px;
+	}
+	.imgggggggggggggggggggggggggggggggggggggggggggggggggggg {
+  background: url(https://роблокс.рф/sites/all/themes/roblox_site/images/gift_box.png) no-repeat scroll 0 0;
+  width: 35px;
+  height: 39px;
+  position: absolute;
+  margin-left: 320px;
+  margin-top: -9px;
+  z-index: 2;
+}
+}@media screen and (max-width:346px){
+	.none10{
+		width: 300px;
+	}
+	.imgggggggggggggggggggggggggggggggggggggggggggggggggggg {
+  background: url(https://роблокс.рф/sites/all/themes/roblox_site/images/gift_box.png) no-repeat scroll 0 0;
+  width: 35px;
+  height: 39px;
+  position: absolute;
+  margin-left: 300px;
+  margin-top: -9px;
+  z-index: 2;
+}
+}
+@media screen and (max-width: 888px){
+	.pox11{
+		width: 86%;
+	}
+}
+@media screen and (max-width: 900px){
+	.opa{
+		width: 93%;
+	}
+}@media screen and (max-width: 400px){
+	.opa{
+		width: 89%;
+	}
+}
+@media screen and (max-width: 845px){
+	.pyyyst{
+		margin-top: 1px;
+	}
+}
+@media screen and (max-width: 750px){
+	.ull{
+		overflow: scroll;
+		height: 420px;
+	}
+}
+@media screen and (max-width: 726px){
+	.ffffff{
+		margin-left: -80px;
+	}
+}
