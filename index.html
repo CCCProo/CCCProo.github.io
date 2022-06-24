@@ -13,13 +13,10 @@
 	<link rel="stylesheet" type="text/css" href="igra.css">
 	<link rel="stylesheet" type="text/css" href="media.css">
 	<link rel="stylesheet" type="text/css" href="loading.css">
-	<script src="time.js"></script>  <script type="text/javascript">
-function googleTranslateElementInit() {
-  new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
-}
-</script>
-
-<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+	<script src="time.js"></script>
+	<script src="https://cdn.jsdelivr.net/npm/js-cookie@2/src/js.cookie.min.js"></script>
+<script src="/js/google-translate.js"></script>
+<script src="//translate.google.com/translate_a/element.js?cb=TranslateInit"></script>
 	   	 <link rel="stylesheet" type="text/css" href="styles/light.css" id="theme-link">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script> 
@@ -277,14 +274,26 @@ top: 1822px;
 	<div class="stc">
 		
 
+<div class="language">
+   <img src="lang__ru.png" alt="ru" data-google-lang="ru" class="language__img">
+   <img src="lang__en.png" alt="en" data-google-lang="en">
+   <img src="lang__de.png" alt="de" data-google-lang="de" class="language__img">
+   <img src="lang__fr.png" alt="fr" data-google-lang="fr" class="language__img">
+   <img src="lang__pt.png" alt="pt" data-google-lang="pt" class="language__img">
+   <img src="lang__es.png" alt="es" data-google-lang="es" class="language__img">
+   <img src="lang__it.png" alt="it" data-google-lang="it" class="language__img">
+   <img src="lang__zh.png" alt="zh" data-google-lang="zh-CN" class="language__img">
+   <img src="lang__ar.png" alt="ar" data-google-lang="ar" class="language__img">
+   <img src="lang__nl.png" alt="nl" data-google-lang="nl" class="language__img">
+   <img src="lang__sv.png" alt="sv" data-google-lang="sv" class="language__img">
+</div>
 
 
 
 
 
 
-
-		<div class="opa"><div id="google_translate_element"></div>
+		<div class="opa">
 			<p>Друзья! Для тех, у кого в последние дни есть проблемы с доступом к сайту, мы запустили зеркало на <a href="https://all-roblox.com">https://all-roblox.com</a>.</p></div>
 <div class="post">
 			<div class="dat">
@@ -1218,6 +1227,12 @@ $(document).ready(function() {
       }, 500);
     }
   </script>
+  <script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
+}
+</script>
 
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 </body>
 </html>
