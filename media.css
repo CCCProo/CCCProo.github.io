@@ -1,6 +1,11 @@
 	.otk:hover .ponks{
 	opacity: 1;
 }
+@media screen and (max-width900px){
+	..topmes{
+		display: none;
+	}
+}
 	@media screen and (max-width: 950px) {
 		.white, #demo,.none,.none1{
 			visibility: hidden;
@@ -793,6 +798,7 @@ top: 1px;
 			position: absolute;
 			height: 1100px;
 			width: 260px;
+			display: none;
 		}
 		.kartink img{
 			width: 100%;
@@ -807,6 +813,7 @@ top: 1px;
 			bottom: 0px;
 			position: absolute;
 			height: 1000px;
+			display: none;
 
 
 		}

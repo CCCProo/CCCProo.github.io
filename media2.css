@@ -72,7 +72,7 @@
 	}
 	.ccccc{
 		margin-left: 536px;
-	}
+	}.inf
 }
 @media screen and (max-width: 980px){
 	.form2{
@@ -469,12 +469,7 @@
 	}
 }
 
-@media screen and (max-width: 800px){
-	.inf{
-		margin-top: 1175px;
-		width: 602px;
-	}
-}
+
 @media screen and (max-width: 900px){
 	.gie{
 		margin-top: 980px;
@@ -485,12 +480,8 @@
 	.gie3{
 		margin-top: 4200px;
 	}
-	.inf{
-		margin-top: 1330px;
-	}
-	.inblock{
-		margin-top: 1790px;
-	}
+	
+	
 }
 @media screen and (max-width: 845px){
 	.gie3{
@@ -500,108 +491,10 @@
 	.inf{
 		width: 582px;
 	}
-}@media screen and (max-width: 760px){
-	.inf{
-		width: 562px;
-	}
-}@media screen and (max-width: 740px){
-	.inf{
-		width: 542px;
-	}
-}@media screen and (max-width: 720px){
-	.inf{
-		width: 522px;
-	}
-}@media screen and (max-width: 700px){
-	.inf{
-		width: 502px;
-	}
-}@media screen and (max-width: 680px){
-	.inf{
-		width: 482px;
-	}
-}@media screen and (max-width: 660px){
-	.inf{
-		width: 462px;
-	}
-}@media screen and (max-width: 660px){
-	.inf{
-		width: 462px;
-	}
-}@media screen and (max-width: 640px){
-	.inf{
-		width: 442px;
-	}
-}@media screen and (max-width: 620px){
-	.inf{
-		width: 422px;
-	}
-}@media screen and (max-width: 600px){
-	.inf{
-		width: 402px;
-	}
-}@media screen and (max-width: 580px){
-	.inf{
-		width: 382px;
-	}
-}
-@media screen and (max-width: 560px){
-	.inf{
-		width: 402px;
-	}
-}
-@media screen and (max-width: 540px){
-	.inf{
-		width: 382px;
-	}
-}
-@media screen and (max-width: 520px){
-	.inf{
-		width: 362px;
-	}
-}
-@media screen and (max-width: 500px){
-	.inf{
-		width: 342px;
-	}
-}
-@media screen and (max-width: 480px){
-	.inf{
-		width: 322px;
-	}
-}@media screen and (max-width: 460px){
-	.inf{
-		width: 302px;
-	}
-}@media screen and (max-width: 440px){
-	.inf{
-		width: 282px;
-	}
-}@media screen and (max-width: 420px){
-	.inf{
-		width: 262px;
-	}
-}@media screen and (max-width: 400px){
-	.inf{
-		width: 242px;
-	}
-}@media screen and (max-width: 380px){
-	.inf{
-		width: 222px;
-	}
-}@media screen and (max-width: 360px){
-	.inf{
-		width: 202px;
-	}
 }
 @media screen and (max-width: 620px){
-	.inf{
-		margin-top: 1130px;
-	}
-	.inblock{
-		margin-top: 1590px;
+	
 
-	}
 	.gie {
   margin-top: 780px;
 }
@@ -610,13 +503,7 @@
 }
 
 }@media screen and (max-width: 620px){
-	.inf{
-		margin-top: 1030px;
-	}
-	.inblock{
-		margin-top: 1490px;
 
-	}
 	.gie {
   margin-top: 680px;
 }
@@ -625,13 +512,8 @@
 }
 
 }@media screen and (max-width: 610px){
-	.inf{
-		margin-top: 1130px;
-	}
-	.inblock{
-		margin-top: 1590px;
+	
 
-	}
 	.gie {
   margin-top: 780px;
 }
@@ -640,13 +522,7 @@
 }
 
 }@media screen and (max-width: 550px){
-	.inf{
-		margin-top: 1030px;
-	}
-	.inblock{
-		margin-top: 1510px;
 
-	}
 	.gie {
   margin-top: 750px;
 }
@@ -655,13 +531,8 @@
 }
 
 }@media screen and (max-width: 440px){
-	.inf{
-		margin-top: 930px;
-	}
-	.inblock{
-		margin-top: 1450px;
+	
 
-	}
 	.gie {
   margin-top: 680px;
 }
