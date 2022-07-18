@@ -44,11 +44,11 @@ top: 40px;
 	display: inline-block;
 }
 .free{
-	background: #F4F5F8;
 border-radius: 16px;
 padding: 24px 32px;
 margin: 0 0 34px 0;
 width: 825px;
+border: 1px solid black;
 }
 .freee{
 	margin-top:20px;
@@ -118,7 +118,7 @@ color: #18191B;
 	display: flex;
 }
 .blocki{
-background: #F4F5F8;
+border: 1px solid black;
 border-radius: 16px;
 padding: 24px 32px;
 width: 324px;

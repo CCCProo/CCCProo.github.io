@@ -111,7 +111,15 @@ width: 100%;
   background: #111;
  
 }
-
+.free, .blocki{
+  background: #333;
+}
+.nax p{
+  color: #F3F5F9;
+}
+.zew p{
+    color: #F3F5F9;
+}
 .name .ne{
 	color: #EFF3FB;
 }.amog {
@@ -135,4 +143,24 @@ width: 100%;
 }
 .footer{
   background: #000;
+}
+.opisan{
+  color: #DEDFE1;
+}
+.textpost{
+    color: #DEDFE1;
+
+}
+.kak p{
+  color: #E6E6E6;
+}
+.opee p {
+  color: #E6E6E6;
+}
+.zew p{
+   color: #E6E6E6;
+}
+.shob p{
+     color: #E6E6E6;
+
 }
